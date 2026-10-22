@@ -16,7 +16,7 @@ import { extractTemplates, parseParams } from './lib/parse.mjs';
 
 const SNAPSHOT = '2026-10-22';
 
-const RIFLE_LIKE = ['igl', 'entry', 'support', 'rifle', 'lurker'];
+const RIFLE_LIKE = ['igl', 'entry', 'support', 'rifle', 'rifler', 'lurk', 'lurker'];
 
 function clean(value) {
   if (!value) return '';
@@ -179,7 +179,8 @@ for (const roster of rosters.rosters) {
     seen.add(key);
 
     const tp = teamPages.get(id) ?? teamPages.get(key);
-    const ib = archived.get(key) ?? infoboxes.get(key);
+    // Live API dump wins over the Wayback snapshot: it cannot be stale.
+    const ib = infoboxes.get(key) ?? archived.get(key);
     const db = majorDb.get(key);
     const country = (db?.flag || tp?.flag || entry.flag || '').toLowerCase();
     if (!country) {
@@ -240,7 +241,7 @@ for (const p of players) {
 
 const dataset = {
   generatedAt: new Date().toISOString(),
-  source: 'Liquipedia (Major participants, Major database, Major titles, team pages; player infoboxes via Wayback Machine)',
+  source: 'Liquipedia (live player infoboxes, Major participants, Major database, Major titles, team pages)',
   snapshot: rosters.sourceDate ?? SNAPSHOT,
   fields,
   players,

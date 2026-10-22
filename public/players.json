@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T08:05:19.745Z",
-  "source": "Liquipedia (Major participants, Major database, Major titles, team pages; player infoboxes via Wayback Machine)",
+  "generatedAt": "2026-10-22T08:25:25.734Z",
+  "source": "Liquipedia (live player infoboxes, Major participants, Major database, Major titles, team pages)",
   "snapshot": "2026-06-02/2026-06-21",
   "fields": [
     "team",
@@ -64,6 +64,19 @@
       "role": "IGL"
     },
     {
+      "id": "aliStair",
+      "team": "THUNDERdOWNUNDER",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 6,
+      "firstMajor": 2021,
+      "age": 28,
+      "role": "AWP"
+    },
+    {
       "id": "apEX",
       "team": "Team Vitality",
       "teamRegion": "EU",
@@ -90,6 +103,19 @@
       "role": "IGL"
     },
     {
+      "id": "asap",
+      "team": "THUNDERdOWNUNDER",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 23,
+      "role": "Rifle"
+    },
+    {
       "id": "AZUWU",
       "team": "Monte",
       "teamRegion": "CIS",
@@ -114,6 +140,19 @@
       "firstMajor": 2021,
       "age": 23,
       "role": "Support"
+    },
+    {
+      "id": "beastik",
+      "team": "SINNERS Esports",
+      "teamRegion": "EU",
+      "country": "cz",
+      "countryName": "捷克",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 28,
+      "role": "IGL"
     },
     {
       "id": "BELCHONOKK",
@@ -181,6 +220,32 @@
       "role": "IGL"
     },
     {
+      "id": "br0",
+      "team": "NRG",
+      "teamRegion": "NA",
+      "country": "dk",
+      "countryName": "丹麦",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 24,
+      "role": "Rifle"
+    },
+    {
+      "id": "brnz4n",
+      "team": "MIBR",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 23,
+      "role": "Entry"
+    },
+    {
       "id": "Brollan",
       "team": "MOUZ",
       "teamRegion": "EU",
@@ -198,12 +263,25 @@
       "team": "Monte",
       "teamRegion": "CIS",
       "country": "lt",
-      "countryName": "LT",
-      "region": "OTHER",
+      "countryName": "立陶宛",
+      "region": "EU",
       "majors": 0,
       "majorsPlayed": 2,
       "firstMajor": 2021,
       "age": 23,
+      "role": "Rifle"
+    },
+    {
+      "id": "C4LLM3SU3",
+      "team": "Lynn Vision Gaming",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 22,
       "role": "Rifle"
     },
     {
@@ -233,6 +311,19 @@
       "role": "AWP"
     },
     {
+      "id": "d1Ledez",
+      "team": "BetBoom Team",
+      "teamRegion": "CIS",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 23,
+      "role": "Rifle"
+    },
+    {
       "id": "dem0n",
       "team": "FUT Esports",
       "teamRegion": "EU",
@@ -243,6 +334,45 @@
       "majorsPlayed": 1,
       "firstMajor": 2026,
       "age": 19,
+      "role": "Rifle"
+    },
+    {
+      "id": "dexter",
+      "team": "THUNDERdOWNUNDER",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 7,
+      "firstMajor": 2019,
+      "age": 32,
+      "role": "IGL"
+    },
+    {
+      "id": "dgt",
+      "team": "9z Team",
+      "teamRegion": "SA",
+      "country": "uy",
+      "countryName": "乌拉圭",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 5,
+      "firstMajor": 2022,
+      "age": 25,
+      "role": "Rifle"
+    },
+    {
+      "id": "doc",
+      "team": "Sharks Esports",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 24,
       "role": "Rifle"
     },
     {
@@ -276,12 +406,38 @@
       "team": "FUT Esports",
       "teamRegion": "EU",
       "country": "lt",
-      "countryName": "LT",
-      "region": "OTHER",
+      "countryName": "立陶宛",
+      "region": "EU",
       "majors": 0,
       "majorsPlayed": 1,
       "firstMajor": 2026,
       "age": 18,
+      "role": "Rifle"
+    },
+    {
+      "id": "EliGE",
+      "team": "Team Liquid",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 17,
+      "firstMajor": 2015,
+      "age": 29,
+      "role": "Entry"
+    },
+    {
+      "id": "EmiliaQAQ",
+      "team": "Lynn Vision Gaming",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 22,
       "role": "Rifle"
     },
     {
@@ -324,6 +480,19 @@
       "role": "Rifle"
     },
     {
+      "id": "fer",
+      "team": "Gaimin Gladiators",
+      "teamRegion": "EU",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 2,
+      "majorsPlayed": 18,
+      "firstMajor": 2015,
+      "age": 34,
+      "role": "Entry"
+    },
+    {
       "id": "FL4MUS",
       "team": "BetBoom Team",
       "teamRegion": "CIS",
@@ -334,7 +503,7 @@
       "majorsPlayed": 3,
       "firstMajor": 2024,
       "age": 22,
-      "role": "Rifle"
+      "role": "Entry"
     },
     {
       "id": "flameZ",
@@ -348,6 +517,19 @@
       "firstMajor": 2022,
       "age": 23,
       "role": "Entry"
+    },
+    {
+      "id": "gafolo",
+      "team": "Sharks Esports",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 24,
+      "role": "IGL"
     },
     {
       "id": "Gizmy",
@@ -376,6 +558,19 @@
       "role": "AWP"
     },
     {
+      "id": "Grim",
+      "team": "NRG",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 8,
+      "firstMajor": 2021,
+      "age": 25,
+      "role": "Entry"
+    },
+    {
       "id": "HeavyGod",
       "team": "G2 Esports",
       "teamRegion": "EU",
@@ -387,6 +582,19 @@
       "firstMajor": 2024,
       "age": 24,
       "role": "Rifle"
+    },
+    {
+      "id": "HEN1",
+      "team": "Gaimin Gladiators",
+      "teamRegion": "EU",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2017,
+      "age": 31,
+      "role": "AWP"
     },
     {
       "id": "HooXi",
@@ -454,6 +662,32 @@
       "role": "Entry"
     },
     {
+      "id": "INS",
+      "team": "FlyQuest",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 8,
+      "firstMajor": 2021,
+      "age": 28,
+      "role": "IGL"
+    },
+    {
+      "id": "insani",
+      "team": "MIBR",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 22,
+      "role": "Support"
+    },
+    {
       "id": "jabbi",
       "team": "Astralis",
       "teamRegion": "EU",
@@ -480,6 +714,32 @@
       "role": "IGL"
     },
     {
+      "id": "JamYoung",
+      "team": "TYLOO",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 25,
+      "role": "Rifle"
+    },
+    {
+      "id": "JBa",
+      "team": "M80",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2024,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
       "id": "JDC",
       "team": "BIG",
       "teamRegion": "EU",
@@ -491,6 +751,45 @@
       "firstMajor": 2022,
       "age": 26,
       "role": "Support"
+    },
+    {
+      "id": "Jee",
+      "team": "TYLOO",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 21,
+      "role": "AWP"
+    },
+    {
+      "id": "jks",
+      "team": "FlyQuest",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 11,
+      "firstMajor": 2014,
+      "age": 30,
+      "role": "Rifle"
+    },
+    {
+      "id": "JOTA",
+      "team": "Gaimin Gladiators",
+      "teamRegion": "EU",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2022,
+      "age": 28,
+      "role": "IGL"
     },
     {
       "id": "karrigan",
@@ -516,6 +815,45 @@
       "majorsPlayed": 3,
       "firstMajor": 2025,
       "age": 20,
+      "role": "Rifle"
+    },
+    {
+      "id": "kisserek",
+      "team": "SINNERS Esports",
+      "teamRegion": "EU",
+      "country": "pl",
+      "countryName": "波兰",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 23,
+      "role": "Rifle"
+    },
+    {
+      "id": "kl1m",
+      "team": "MIBR",
+      "teamRegion": "SA",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 21,
+      "role": "AWP"
+    },
+    {
+      "id": "koala",
+      "team": "Sharks Esports",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 21,
       "role": "Rifle"
     },
     {
@@ -558,6 +896,32 @@
       "role": "Entry"
     },
     {
+      "id": "Lake",
+      "team": "M80",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
+      "id": "latto",
+      "team": "Legacy",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 6,
+      "firstMajor": 2021,
+      "age": 23,
+      "role": "AWP"
+    },
+    {
       "id": "lauNX",
       "team": "FUT Esports",
       "teamRegion": "EU",
@@ -571,6 +935,32 @@
       "role": "Rifle"
     },
     {
+      "id": "Liazz",
+      "team": "THUNDERdOWNUNDER",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 8,
+      "firstMajor": 2019,
+      "age": 29,
+      "role": "Rifle"
+    },
+    {
+      "id": "LNZ",
+      "team": "MIBR",
+      "teamRegion": "SA",
+      "country": "se",
+      "countryName": "瑞典",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2021,
+      "age": 24,
+      "role": "IGL"
+    },
+    {
       "id": "luchov",
       "team": "9z Team",
       "teamRegion": "SA",
@@ -582,6 +972,19 @@
       "firstMajor": 2026,
       "age": 25,
       "role": "Entry"
+    },
+    {
+      "id": "Luken",
+      "team": "Gaimin Gladiators",
+      "teamRegion": "EU",
+      "country": "ar",
+      "countryName": "阿根廷",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2022,
+      "age": 29,
+      "role": "AWP"
     },
     {
       "id": "m0NESY",
@@ -649,6 +1052,19 @@
       "role": "Rifle"
     },
     {
+      "id": "malbsMd",
+      "team": "Team Liquid",
+      "teamRegion": "NA",
+      "country": "gt",
+      "countryName": "危地马拉",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 24,
+      "role": "Entry"
+    },
+    {
       "id": "matys",
       "team": "G2 Esports",
       "teamRegion": "EU",
@@ -672,6 +1088,32 @@
       "majorsPlayed": 3,
       "firstMajor": 2022,
       "age": 27,
+      "role": "IGL"
+    },
+    {
+      "id": "maxxkor",
+      "team": "Sharks Esports",
+      "teamRegion": "SA",
+      "country": "ar",
+      "countryName": "阿根廷",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 24,
+      "role": "AWP"
+    },
+    {
+      "id": "Mercury",
+      "team": "TYLOO",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 25,
       "role": "IGL"
     },
     {
@@ -701,6 +1143,19 @@
       "role": "Rifle"
     },
     {
+      "id": "MoDo",
+      "team": "SINNERS Esports",
+      "teamRegion": "EU",
+      "country": "ro",
+      "countryName": "罗马尼亚",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 23,
+      "role": "AWP"
+    },
+    {
       "id": "molodoy",
       "team": "FURIA",
       "teamRegion": "SA",
@@ -712,6 +1167,19 @@
       "firstMajor": 2025,
       "age": 21,
       "role": "AWP"
+    },
+    {
+      "id": "Moseyuh",
+      "team": "TYLOO",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2025,
+      "age": 21,
+      "role": "IGL"
     },
     {
       "id": "mzinho",
@@ -740,6 +1208,32 @@
       "role": "Rifle"
     },
     {
+      "id": "NAF",
+      "team": "Team Liquid",
+      "teamRegion": "NA",
+      "country": "ca",
+      "countryName": "加拿大",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 14,
+      "firstMajor": 2016,
+      "age": 28,
+      "role": "Rifle"
+    },
+    {
+      "id": "NEKIZ",
+      "team": "Gaimin Gladiators",
+      "teamRegion": "EU",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2021,
+      "age": 30,
+      "role": "Entry"
+    },
+    {
       "id": "NertZ",
       "team": "G2 Esports",
       "teamRegion": "EU",
@@ -750,6 +1244,19 @@
       "majorsPlayed": 6,
       "firstMajor": 2023,
       "age": 27,
+      "role": "Rifle"
+    },
+    {
+      "id": "nettik",
+      "team": "FlyQuest",
+      "teamRegion": "OCE",
+      "country": "nz",
+      "countryName": "新西兰",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 23,
       "role": "Rifle"
     },
     {
@@ -779,6 +1286,19 @@
       "role": "Rifle"
     },
     {
+      "id": "nitr0",
+      "team": "NRG",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 14,
+      "firstMajor": 2014,
+      "age": 31,
+      "role": "IGL"
+    },
+    {
       "id": "nota",
       "team": "PARIVISION",
       "teamRegion": "CIS",
@@ -803,6 +1323,19 @@
       "firstMajor": 2023,
       "age": 21,
       "role": "IGL"
+    },
+    {
+      "id": "oSee",
+      "team": "NRG",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 5,
+      "firstMajor": 2022,
+      "age": 27,
+      "role": "AWP"
     },
     {
       "id": "phzy",
@@ -844,6 +1377,19 @@
       "role": "Support"
     },
     {
+      "id": "rdnzao",
+      "team": "Sharks Esports",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 23,
+      "role": "Rifle"
+    },
+    {
       "id": "REZ",
       "team": "GamerLegion",
       "teamRegion": "EU",
@@ -861,13 +1407,26 @@
       "team": "Team Vitality",
       "teamRegion": "EU",
       "country": "ee",
-      "countryName": "EE",
-      "region": "OTHER",
+      "countryName": "爱沙尼亚",
+      "region": "EU",
       "majors": 3,
       "majorsPlayed": 13,
       "firstMajor": 2017,
       "age": 26,
       "role": "Rifle"
+    },
+    {
+      "id": "s1n",
+      "team": "M80",
+      "teamRegion": "NA",
+      "country": "de",
+      "countryName": "德国",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2022,
+      "age": 24,
+      "role": "IGL"
     },
     {
       "id": "s1zzi",
@@ -919,6 +1478,45 @@
       "majorsPlayed": 8,
       "firstMajor": 2021,
       "age": 25,
+      "role": "AWP"
+    },
+    {
+      "id": "SHOCK",
+      "team": "SINNERS Esports",
+      "teamRegion": "EU",
+      "country": "cz",
+      "countryName": "捷克",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 25,
+      "role": "Rifle"
+    },
+    {
+      "id": "siuhy",
+      "team": "Team Liquid",
+      "teamRegion": "NA",
+      "country": "pl",
+      "countryName": "波兰",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 7,
+      "firstMajor": 2022,
+      "age": 24,
+      "role": "IGL"
+    },
+    {
+      "id": "slaxz-",
+      "team": "M80",
+      "teamRegion": "NA",
+      "country": "de",
+      "countryName": "德国",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2022,
+      "age": 27,
       "role": "AWP"
     },
     {
@@ -987,6 +1585,45 @@
       "role": "Rifle"
     },
     {
+      "id": "Starry",
+      "team": "Lynn Vision Gaming",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 21,
+      "role": "Rifle"
+    },
+    {
+      "id": "story",
+      "team": "FlyQuest",
+      "teamRegion": "OCE",
+      "country": "pt",
+      "countryName": "葡萄牙",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2024,
+      "age": 24,
+      "role": "AWP"
+    },
+    {
+      "id": "stressarN",
+      "team": "SINNERS Esports",
+      "teamRegion": "EU",
+      "country": "mk",
+      "countryName": "北马其顿",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 6,
+      "firstMajor": 2015,
+      "age": 23,
+      "role": "Rifle"
+    },
+    {
       "id": "SunPayus",
       "team": "FUT Esports",
       "teamRegion": "EU",
@@ -1011,6 +1648,19 @@
       "firstMajor": 2024,
       "age": 21,
       "role": "Rifle"
+    },
+    {
+      "id": "Swisher",
+      "team": "M80",
+      "teamRegion": "NA",
+      "country": "us",
+      "countryName": "美国",
+      "region": "NA",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 28,
+      "role": "Entry"
     },
     {
       "id": "tabseN",
@@ -1065,6 +1715,19 @@
       "role": "Entry"
     },
     {
+      "id": "TjP",
+      "team": "THUNDERdOWNUNDER",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 24,
+      "role": "Rifle"
+    },
+    {
       "id": "tN1R",
       "team": "Team Spirit",
       "teamRegion": "CIS",
@@ -1091,6 +1754,58 @@
       "role": "AWP"
     },
     {
+      "id": "ultimate",
+      "team": "Team Liquid",
+      "teamRegion": "NA",
+      "country": "pl",
+      "countryName": "波兰",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 22,
+      "role": "AWP"
+    },
+    {
+      "id": "v$m",
+      "team": "paiN Gaming",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2023,
+      "age": 27,
+      "role": "Rifle"
+    },
+    {
+      "id": "venomzera",
+      "team": "MIBR",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
+      "id": "Vexite",
+      "team": "FlyQuest",
+      "teamRegion": "OCE",
+      "country": "au",
+      "countryName": "澳大利亚",
+      "region": "OCE",
+      "majors": 0,
+      "majorsPlayed": 6,
+      "firstMajor": 2022,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
       "id": "w0nderful",
       "team": "Natus Vincere",
       "teamRegion": "CIS",
@@ -1102,6 +1817,19 @@
       "firstMajor": 2022,
       "age": 21,
       "role": "AWP"
+    },
+    {
+      "id": "westmelon",
+      "team": "Lynn Vision Gaming",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 25,
+      "role": "IGL"
     },
     {
       "id": "Wicadia",
@@ -1199,8 +1927,8 @@
       "team": "FURIA",
       "teamRegion": "SA",
       "country": "lv",
-      "countryName": "LV",
-      "region": "OTHER",
+      "countryName": "拉脱维亚",
+      "region": "EU",
       "majors": 0,
       "majorsPlayed": 8,
       "firstMajor": 2021,
@@ -1231,6 +1959,32 @@
       "majorsPlayed": 2,
       "firstMajor": 2025,
       "age": 22,
+      "role": "Rifle"
+    },
+    {
+      "id": "z4kr",
+      "team": "Lynn Vision Gaming",
+      "teamRegion": "APAC",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 23,
+      "role": "AWP"
+    },
+    {
+      "id": "Zero",
+      "team": "TYLOO",
+      "teamRegion": "APAC",
+      "country": "sk",
+      "countryName": "斯洛伐克",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2017,
+      "age": 28,
       "role": "Rifle"
     },
     {

@@ -36,8 +36,9 @@ node scripts/build-web.mjs      # 输出 dist/，不需要 npm install
 ## 选手池
 
 池子是 **2026 IEM Cologne Major 的 32 支参赛队主力**，去重后 157 人。答案行必须字段齐全，
-所以当前只收录 infobox 已抓到的 **98 人**（`data/raw/archive/` 里有存档的人，还在继续补）；
-`scripts/build-players.mjs` 会自动把「年龄或位置未知」的选手剔出池子，存档补齐后重跑即可扩容，无需改代码。
+所以当前收录 infobox 能解析出「年龄 + 位置」的 **156 人**：`ryu` 解析到的是同名退役教练词条、
+`cobrazera` 不在 Major 数据库里、`piriajr` / `Sonic` 缺国籍，都被自动剔除。
+`scripts/build-players.mjs` 会自动把「年龄或位置未知」的选手剔出池子。
 战队字段以 Major 参赛时的队伍为准；Major 结束后重新生成一次池子即可。
 
 ## 开发
@@ -64,33 +65,39 @@ node scripts/validate.mjs   # 校验 public/players.json
 | `data/raw/player-db.wikitext` | Major 参赛记录库（647 人，含每次参赛的年份） |
 | `data/raw/player-stats.wikitext` | 每人 Major 冠军数 |
 | `data/raw/page-*.json` | 队伍页快照（现役阵容 + IGL 标记） |
+| `data/players-raw.json` | 160 名选手的实时 infobox（`fetch-players.mjs` 产物，年龄/位置来源） |
+| `data/infobox.json` | Wayback 快照解析结果（备用通道，缺人时回退） |
 
 ```bash
 node scripts/build-players.mjs   # 合并 -> public/players.json
 node scripts/validate.mjs
 ```
 
-### 补「年龄 / 位置」字段（可选）
+### 更新「年龄 / 位置」字段
 
-年龄和位置只在选手个人页（infobox）里。2026-10-22 抓取时 Liquipedia 对我们 429 封禁了 11 小时以上，
-所以第一版先用「Major 出场 / 首秀年份」顶上。字段列表是数据驱动的：数据里一旦有了 age/role，
-`build-players.mjs` 会自动补上这两列（位置覆盖率 ≥50%、年龄 ≥80% 才启用）。
-
-补数据的两条路都已经写好：
+年龄和位置只在选手个人页（infobox）里，用 Liquipedia 的 MediaWiki API 批量取最快：
+每批 50 个标题、只取 section 0，160 人只要 4 个请求（间隔约 2 秒，**约 10 秒跑完**）。
 
 ```bash
-# A. Liquipedia 解封后（快）
-node scripts/retry-fetch.mjs     # 每 5 分钟探一次，解封后自动抓 4 批 infobox
-
-# B. 解封前走 Wayback Machine 的存档页（慢，约 12-16 秒/人）
-node scripts/fetch-archive.mjs   # 存到 data/raw/archive/<id>.html，可断点续抓
-node scripts/parse-archive.mjs   # 出生日期/年龄/位置/国籍 -> data/infobox.json
-
+node scripts/fetch-players.mjs   # -> data/players-raw.json（160 人 infobox）
 node scripts/build-players.mjs   # age/role 自动进入 players.json 的 fields
 node scripts/build-web.mjs
 ```
 
-archive.org 限速很凶：并发必须为 1、间隔 2 秒，遇到 403/429/503 退避 45 秒，否则 IP 会被临时拒连。
+字段列表是数据驱动的：位置覆盖率 ≥50%、年龄 ≥80% 才会启用这两列。
+API 有速率限制（约 1 请求 / 2 秒），被限流返回 429 时脚本会指数退避。
+
+备用通道：如果 Liquipedia 对当前出口 IP 返回 429（我们曾被连续封 17 小时），
+可以换网络出口，或改走 Wayback Machine 的存档页：
+
+```bash
+node scripts/fetch-archive.mjs   # 存到 data/raw/archive/<id>.html，可断点续抓
+node scripts/parse-archive.mjs   # 出生日期/年龄/位置/国籍 -> data/infobox.json
+node scripts/build-players.mjs
+```
+
+`build-players.mjs` 优先用实时 API 数据，抓不到时回退到 Wayback 快照。
+archive.org 限速更凶：并发必须为 1、间隔 7 秒，遇到 403/429/503 退避 25 秒，否则 IP 会被临时拒连。
 
 ## 部署
 

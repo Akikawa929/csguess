@@ -7,6 +7,7 @@ export const COUNTRY_REGION = {
   si: 'EU', mk: 'EU', me: 'EU', al: 'EU', gr: 'EU', uk: 'EU', gb: 'EU', ie: 'EU', nl: 'EU',
   be: 'EU', lu: 'EU', es: 'EU', pt: 'EU', it: 'EU', ch: 'EU', at: 'EU', mt: 'EU',
   cy: 'EU', xk: 'EU', ad: 'EU', mc: 'EU', sm: 'EU', li: 'EU',
+  lt: 'EU', lv: 'EU', ee: 'EU',
   // CIS
   ru: 'CIS', ua: 'CIS', by: 'CIS', kz: 'CIS', ge: 'CIS', am: 'CIS', az: 'CIS',
   md: 'CIS', uz: 'CIS', kg: 'CIS', tj: 'CIS', tm: 'CIS',
@@ -124,6 +125,7 @@ export const ZH_NAME = {
   me: '黑山', al: '阿尔巴尼亚', gr: '希腊', uk: '英国', gb: '英国', ie: '爱尔兰',
   nl: '荷兰', be: '比利时', lu: '卢森堡', es: '西班牙', pt: '葡萄牙', it: '意大利',
   ch: '瑞士', at: '奥地利', mt: '马耳他', cy: '塞浦路斯', xk: '科索沃',
+  lt: '立陶宛', lv: '拉脱维亚', ee: '爱沙尼亚', gt: '危地马拉',
   ru: '俄罗斯', ua: '乌克兰', by: '白俄罗斯', kz: '哈萨克斯坦', ge: '格鲁吉亚',
   am: '亚美尼亚', az: '阿塞拜疆', md: '摩尔多瓦', uz: '乌兹别克斯坦', kg: '吉尔吉斯斯坦',
   us: '美国', ca: '加拿大', mx: '墨西哥', pr: '波多黎各',
