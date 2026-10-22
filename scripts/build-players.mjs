@@ -167,7 +167,7 @@ const teamPages = await parseTeamPages();
 const infoboxes = await parseInfoboxes();
 const archived = await parseArchived();
 
-const players = [];
+let players = [];
 const problems = [];
 const seen = new Set();
 
@@ -207,15 +207,29 @@ for (const roster of rosters.rosters) {
   }
 }
 
+// The answer row must be fully known: a player without an infobox would show
+// "?" for age/role on every guess, which leaks the secret. As more snapshots
+// land the pool grows back on its own.
+const droppedUnknown = players.filter((p) => p.age == null || p.role == null).map((p) => p.id);
+players = players.filter((p) => p.age != null && p.role != null);
 players.sort((a, b) => a.id.localeCompare(b.id));
+if (droppedUnknown.length) {
+  console.log(`dropped (unknown age/role): ${droppedUnknown.length} -> ${droppedUnknown.join(', ')}`);
+}
 
 const share = (fn) => players.filter(fn).length / Math.max(players.length, 1);
-const fields = ['team', 'role', 'country', 'age', 'majors', 'majorsPlayed', 'firstMajor'].filter((f) => {
+const candidates = ['team', 'role', 'country', 'age', 'majors', 'majorsPlayed', 'firstMajor'];
+const fields = candidates.filter((f) => {
   if (f === 'role') return share((p) => p.role != null) >= 0.5;
   if (f === 'age') return share((p) => p.age != null) >= 0.8;
   if (f === 'majorsPlayed' || f === 'firstMajor') return share((p) => p[f] != null) >= 0.9;
   return true;
 });
+
+// Six columns fit a phone screen: once age and role are in, 首秀年份 becomes spare data.
+if (fields.includes('age') && fields.includes('role') && fields.includes('firstMajor')) {
+  fields.splice(fields.indexOf('firstMajor'), 1);
+}
 
 // Drop fields the dataset does not advertise, so the JSON stays small and honest.
 for (const p of players) {

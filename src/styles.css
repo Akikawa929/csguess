@@ -200,6 +200,10 @@ button:disabled {
     padding: 4px 2px;
   }
 
+  .grid-head span {
+    font-size: 10.5px;
+  }
+
   .cell-name {
     font-size: 12px;
   }

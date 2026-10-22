@@ -27,8 +27,10 @@ node scripts/build-web.mjs      # 输出 dist/，不需要 npm install
 
 ## 选手池
 
-池子是 **2026 IEM Cologne Major 的 32 支参赛队主力**，去重后 157 人（3 人因数据缺失剔除）。
-战队字段以缓存到的队伍页为准（9 支），其余用 Major 参赛时的队伍。Major 结束后重新生成一次池子即可。
+池子是 **2026 IEM Cologne Major 的 32 支参赛队主力**，去重后 157 人。答案行必须字段齐全，
+所以当前只收录 infobox 已抓到的 **80 人**（`data/raw/archive/` 里有存档的人）；
+`scripts/build-players.mjs` 会自动把「年龄或位置未知」的选手剔出池子，存档补齐后重跑即可扩容，无需改代码。
+战队字段以 Major 参赛时的队伍为准；Major 结束后重新生成一次池子即可。
 
 ## 开发
 

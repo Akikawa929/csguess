@@ -38,7 +38,9 @@ for (const p of players) {
   }
 }
 
-if (players.length < 100) errors.push(`only ${players.length} players, expected 150+`);
+// The pool is trimmed to players whose infobox we could resolve, so it grows
+// with the snapshot cache instead of being a fixed 150+.
+if (players.length < 40) errors.push(`only ${players.length} players, expected 40+`);
 
 const played = players.map((p) => p.majorsPlayed).filter((n) => typeof n === 'number');
 const avgPlayed = played.reduce((a, b) => a + b, 0) / (played.length || 1);

@@ -179,6 +179,8 @@ async function boot(): Promise<void> {
     return;
   }
   gridTemplate = `1.15fr repeat(${fields.length}, minmax(0, 1fr))`;
+  const poolSize = document.getElementById('pool-size');
+  if (poolSize) poolSize.textContent = String(players.length);
   players.sort((a, b) => a.id.localeCompare(b.id));
   answer = pickDaily(players, DAY);
   renderHead();

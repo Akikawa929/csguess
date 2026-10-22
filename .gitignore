@@ -5,3 +5,4 @@ data/retry.log
 .npm-cache/
 .DS_Store
 data/raw/archive/
+.dsh-ops-update-*.lock
