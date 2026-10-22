@@ -1,10 +1,31 @@
-import { loadDataset, pickDaily, searchPlayers, todayKey } from './data';
+import { loadDataset, pickDaily, pickRandom, searchPlayers, todayKey } from './data';
 import { compare, FIELD_LABEL, isWin, regionLabel } from './game';
 import type { CompareResult, FieldId, FieldResult, Player } from './types';
 
-const MAX_GUESSES = 6;
+const MAX_GUESSES = 8;
 const DAY = todayKey();
-const STORE_KEY = `csguess:${DAY}`;
+const DAILY_KEY = `csguess:daily:${DAY}`;
+const LEGACY_KEY = `csguess:${DAY}`;
+const INFINITE_KEY = 'csguess:infinite';
+const MODE_KEY = 'csguess:mode';
+/** How many recent answers the endless mode avoids repeating. */
+const RECENT_LIMIT = 25;
+
+type Mode = 'daily' | 'infinite';
+
+interface SavedRound {
+  ids: string[];
+}
+
+interface InfiniteState {
+  round: number;
+  wins: number;
+  streak: number;
+  best: number;
+  answerId: string | null;
+  ids: string[];
+  seen: string[];
+}
 
 const boardEl = document.getElementById('board') as HTMLDivElement;
 const headEl = document.getElementById('grid-head') as HTMLDivElement;
@@ -16,12 +37,28 @@ const listEl = document.getElementById('player-list') as HTMLDataListElement;
 const resultEl = document.getElementById('result') as HTMLElement;
 const resultTextEl = document.getElementById('result-text') as HTMLParagraphElement;
 const shareEl = document.getElementById('share-btn') as HTMLButtonElement;
+const nextEl = document.getElementById('next-btn') as HTMLButtonElement;
+const statsEl = document.getElementById('stats') as HTMLParagraphElement;
+const dailyBtn = document.getElementById('mode-daily') as HTMLButtonElement;
+const infiniteBtn = document.getElementById('mode-infinite') as HTMLButtonElement;
 
 let players: Player[] = [];
 let fields: FieldId[] = [];
 let gridTemplate = '';
+let mode: Mode = 'daily';
 let answer: Player | null = null;
 let guesses: { player: Player; result: CompareResult }[] = [];
+let finished = false;
+let won = false;
+let infinite: InfiniteState = {
+  round: 0,
+  wins: 0,
+  streak: 0,
+  best: 0,
+  answerId: null,
+  ids: [],
+  seen: [],
+};
 
 function el<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -94,21 +131,52 @@ function findPlayer(name: string): Player | undefined {
   return prefix.length === 1 ? prefix[0] : undefined;
 }
 
-function save(): void {
+function readJson<T>(key: string, fallback: T): T {
   try {
-    localStorage.setItem(STORE_KEY, JSON.stringify(guesses.map((g) => g.player.id)));
+    const raw = localStorage.getItem(key);
+    if (!raw) return fallback;
+    return JSON.parse(raw) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+function writeJson(key: string, value: unknown): void {
+  try {
+    localStorage.setItem(key, JSON.stringify(value));
   } catch {
     /* storage may be unavailable */
   }
 }
 
-function load(): string[] {
-  try {
-    const raw = localStorage.getItem(STORE_KEY);
-    const ids = raw ? (JSON.parse(raw) as string[]) : [];
-    return Array.isArray(ids) ? ids : [];
-  } catch {
-    return [];
+function saveDaily(): void {
+  writeJson(DAILY_KEY, { ids: guesses.map((g) => g.player.id) });
+}
+
+function saveInfinite(): void {
+  writeJson(INFINITE_KEY, infinite);
+}
+
+function save(): void {
+  if (mode === 'daily') saveDaily();
+  else saveInfinite();
+}
+
+function loadDailyIds(): string[] {
+  const saved = readJson<SavedRound | string[] | null>(DAILY_KEY, null);
+  if (Array.isArray(saved)) return saved;
+  if (saved && Array.isArray(saved.ids)) return saved.ids;
+  const legacy = readJson<string[] | null>(LEGACY_KEY, null);
+  return Array.isArray(legacy) ? legacy : [];
+}
+
+function restoreGuesses(ids: string[]): void {
+  guesses = [];
+  for (const id of ids) {
+    const p = findPlayer(id);
+    if (p && answer && !guesses.some((g) => g.player.id === p.id)) {
+      guesses.push({ player: p, result: compare(p, answer, fields) });
+    }
   }
 }
 
@@ -120,8 +188,11 @@ function emojiGrid(): string {
 }
 
 function shareText(): string {
-  const head = `CS 选手猜猜猜 ${DAY} ${guesses.length}/${MAX_GUESSES}`;
-  return `${head}\n${emojiGrid()}`;
+  if (mode === 'infinite') {
+    const head = `CS 选手猜猜猜 · 无限挑战 第 ${infinite.round} 题 ${guesses.length}/${MAX_GUESSES}`;
+    return `${head}\n${emojiGrid()}`;
+  }
+  return `CS 选手猜猜猜 ${DAY} ${guesses.length}/${MAX_GUESSES}\n${emojiGrid()}`;
 }
 
 async function copyShare(): Promise<void> {
@@ -135,18 +206,64 @@ async function copyShare(): Promise<void> {
   setTimeout(() => (shareEl.textContent = '复制成绩'), 1500);
 }
 
-function finish(won: boolean): void {
-  if (!answer) return;
-  resultEl.hidden = false;
-  resultTextEl.textContent = won
-    ? `猜对了！就是 ${answer.id}（${answer.team}）。`
-    : `今天的答案：${answer.id}（${answer.team}）。`;
-  inputEl.disabled = true;
-  btnEl.disabled = true;
+function resultMessage(): string {
+  if (!answer) return '';
+  const who = `${answer.id}（${answer.team}）`;
+  if (mode === 'infinite') {
+    return won
+      ? `猜对了！${who}，第 ${infinite.round} 题用了 ${guesses.length} 次。`
+      : `第 ${infinite.round} 题的答案是 ${who}。再战一题？`;
+  }
+  return won ? `猜对了！就是 ${who}。` : `今天的答案：${who}。`;
+}
+
+function updateStatus(): void {
+  const isInfinite = mode === 'infinite';
+  dailyBtn.className = `mode${isInfinite ? '' : ' active'}`;
+  infiniteBtn.className = `mode${isInfinite ? ' active' : ''}`;
+  statsEl.hidden = !isInfinite;
+  if (isInfinite) {
+    statsEl.textContent = `第 ${infinite.round} 题 · 猜中 ${infinite.wins} · 当前连击 ${infinite.streak} · 最佳 ${infinite.best}`;
+  }
+
+  inputEl.disabled = finished;
+  btnEl.disabled = finished;
+  resultEl.hidden = !finished;
+  nextEl.hidden = !(finished && isInfinite);
+  if (finished) {
+    resultTextEl.textContent = resultMessage();
+  } else if (guesses.length) {
+    hintEl.textContent = `还剩 ${MAX_GUESSES - guesses.length} 次机会`;
+  } else {
+    hintEl.textContent = '';
+  }
+}
+
+function evaluate(): void {
+  const last = guesses[guesses.length - 1];
+  won = last ? isWin(last.result) : false;
+  finished = Boolean(won) || guesses.length >= MAX_GUESSES;
+  updateStatus();
+}
+
+function endRound(roundWon: boolean): void {
+  finished = true;
+  won = roundWon;
+  if (mode === 'infinite') {
+    infinite.wins += roundWon ? 1 : 0;
+    infinite.streak = roundWon ? infinite.streak + 1 : 0;
+    infinite.best = Math.max(infinite.best, infinite.streak);
+    infinite.ids = guesses.map((g) => g.player.id);
+    saveInfinite();
+  } else {
+    saveDaily();
+  }
+  updateStatus();
 }
 
 function submitGuess(name: string): void {
-  if (!answer || guesses.length >= MAX_GUESSES || inputEl.disabled) return;
+  if (!answer || finished) return;
+  if (guesses.length >= MAX_GUESSES) return;
   const player = findPlayer(name);
   if (!player) {
     hintEl.textContent = `没有找到「${name.trim()}」，试试下拉列表里的昵称。`;
@@ -164,9 +281,70 @@ function submitGuess(name: string): void {
   renderBoard();
   save();
 
-  if (isWin(result)) finish(true);
-  else if (guesses.length >= MAX_GUESSES) finish(false);
-  else hintEl.textContent = `还剩 ${MAX_GUESSES - guesses.length} 次机会`;
+  if (isWin(result)) endRound(true);
+  else if (guesses.length >= MAX_GUESSES) endRound(false);
+  else updateStatus();
+  if (!finished) inputEl.focus();
+}
+
+function enterDaily(): void {
+  mode = 'daily';
+  writeJson(MODE_KEY, mode);
+  answer = pickDaily(players, DAY);
+  restoreGuesses(loadDailyIds());
+  evaluate();
+  renderBoard();
+}
+
+function newInfiniteRound(): void {
+  answer = pickRandom(players, new Set(infinite.seen));
+  infinite.round += 1;
+  infinite.answerId = answer.id;
+  infinite.ids = [];
+  infinite.seen = [...infinite.seen, answer.id].slice(-RECENT_LIMIT);
+  guesses = [];
+  finished = false;
+  won = false;
+  saveInfinite();
+  renderBoard();
+  updateStatus();
+  inputEl.focus();
+}
+
+function enterInfinite(): void {
+  mode = 'infinite';
+  writeJson(MODE_KEY, mode);
+  const saved = readJson<InfiniteState | null>(INFINITE_KEY, null);
+  if (saved && typeof saved === 'object') {
+    infinite = {
+      round: Number(saved.round) || 0,
+      wins: Number(saved.wins) || 0,
+      streak: Number(saved.streak) || 0,
+      best: Number(saved.best) || 0,
+      answerId: typeof saved.answerId === 'string' ? saved.answerId : null,
+      ids: Array.isArray(saved.ids) ? saved.ids : [],
+      seen: Array.isArray(saved.seen) ? saved.seen : [],
+    };
+  } else {
+    infinite = { round: 0, wins: 0, streak: 0, best: 0, answerId: null, ids: [], seen: [] };
+  }
+
+  const savedAnswer = infinite.answerId ? players.find((p) => p.id === infinite.answerId) : undefined;
+  if (!savedAnswer) {
+    newInfiniteRound();
+    return;
+  }
+  answer = savedAnswer;
+  restoreGuesses(infinite.ids);
+  evaluate();
+  renderBoard();
+}
+
+function setMode(next: Mode): void {
+  if (next === mode) return;
+  if (next === 'infinite') enterInfinite();
+  else enterDaily();
+  inputEl.focus();
 }
 
 async function boot(): Promise<void> {
@@ -182,19 +360,11 @@ async function boot(): Promise<void> {
   const poolSize = document.getElementById('pool-size');
   if (poolSize) poolSize.textContent = String(players.length);
   players.sort((a, b) => a.id.localeCompare(b.id));
-  answer = pickDaily(players, DAY);
   renderHead();
 
-  for (const id of load()) {
-    const p = findPlayer(id);
-    if (p && answer) guesses.push({ player: p, result: compare(p, answer, fields) });
-  }
-  renderBoard();
-  if (guesses.length) {
-    const last = guesses[guesses.length - 1];
-    if (isWin(last.result) || guesses.length >= MAX_GUESSES) finish(isWin(last.result));
-    else hintEl.textContent = `还剩 ${MAX_GUESSES - guesses.length} 次机会`;
-  }
+  const wanted = readJson<Mode | null>(MODE_KEY, null);
+  if (wanted === 'infinite') enterInfinite();
+  else enterDaily();
 
   inputEl.addEventListener('input', () => fillOptions(inputEl.value));
   formEl.addEventListener('submit', (ev) => {
@@ -202,6 +372,11 @@ async function boot(): Promise<void> {
     submitGuess(inputEl.value);
   });
   shareEl.addEventListener('click', () => void copyShare());
+  nextEl.addEventListener('click', () => {
+    if (mode === 'infinite') newInfiniteRound();
+  });
+  dailyBtn.addEventListener('click', () => setMode('daily'));
+  infiniteBtn.addEventListener('click', () => setMode('infinite'));
   inputEl.focus();
 }
 

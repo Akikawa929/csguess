@@ -31,7 +31,7 @@ const dataset = globalThis.__CSGUESS__;
 test('standalone bundle boots from inlined data (no fetch)', () => {
   const head = ids.get('grid-head');
   assert.equal(head.children.length, dataset.fields.length + 1);
-  assert.equal(ids.get('board').children.length, 6);
+  assert.equal(ids.get('board').children.length, 8);
   assert.doesNotMatch(ids.get('hint').textContent, /失败/);
 });
 

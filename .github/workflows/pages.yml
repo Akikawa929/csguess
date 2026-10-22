@@ -30,6 +30,7 @@ jobs:
       - run: node scripts/validate.mjs
       - run: node test/game.test.ts
       - run: node scripts/build-web.mjs
+      - run: node test/modes.test.mjs
       - run: node test/ui.test.mjs
       - run: node test/standalone.test.mjs
 

@@ -49,6 +49,19 @@ export function pickDaily(players: Player[], dayKey: string): Player {
   return pool[hash(dayKey) % pool.length];
 }
 
+/** Random pick for the endless mode; `exclude` keeps recent answers out. */
+export function pickRandom(
+  players: Player[],
+  exclude: Iterable<string> = [],
+  rng: () => number = Math.random,
+): Player {
+  const skip = new Set(exclude);
+  const fresh = players.filter((p) => !skip.has(p.id));
+  const pool = fresh.length ? fresh : players;
+  const i = Math.min(pool.length - 1, Math.floor(rng() * pool.length));
+  return pool[Math.max(0, i)];
+}
+
 export function todayKey(d = new Date()): string {
   const y = d.getFullYear();
   const m = String(d.getMonth() + 1).padStart(2, '0');

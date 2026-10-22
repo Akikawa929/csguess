@@ -180,6 +180,47 @@ button:disabled {
   font-size: 13px;
 }
 
+.modes {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.mode {
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+
+.mode.active {
+  color: #1a1204;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.stats {
+  margin: 0 0 14px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.result-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+#next-btn {
+  padding: 8px 18px;
+  font-size: 13px;
+}
+
 .foot {
   margin-top: 32px;
   color: var(--muted);
