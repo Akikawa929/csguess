@@ -14,7 +14,9 @@
     "validate": "node scripts/validate.mjs",
     "fetch:teams": "node scripts/fetch-teams.mjs",
     "fetch:players": "node scripts/fetch-players.mjs",
-    "retry": "node scripts/retry-fetch.mjs"
+    "retry": "node scripts/retry-fetch.mjs",
+    "fetch:archive": "node scripts/fetch-archive.mjs",
+    "parse:archive": "node scripts/parse-archive.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

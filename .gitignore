@@ -4,3 +4,4 @@ data/retry.log
 *.log
 .npm-cache/
 .DS_Store
+data/raw/archive/

@@ -5,7 +5,8 @@
 //   raw/player-db.wikitext  Major appearance database: flag + every Major attended
 //   raw/player-stats.wikitext  Major titles won per player
 //   raw/page-*.json        cached team pages: current squad + IGL flags
-//   players-raw.json       optional: player infoboxes (age / roles), only when fetched
+//   infobox.json           Wayback snapshots of the player pages: age + roles
+//   players-raw.json       optional: live infobox dump, when Liquipedia unblocks
 //
 // The field list is data driven: age and role are only advertised when we
 // actually have them for most players.
@@ -141,6 +142,21 @@ async function parseInfoboxes() {
   return out;
 }
 
+/** Waybay snapshot cache (scripts/parse-archive.mjs): age + roles for most players. */
+async function parseArchived() {
+  const out = new Map();
+  let raw;
+  try {
+    raw = JSON.parse(await readFile('data/infobox.json', 'utf8'));
+  } catch {
+    return out;
+  }
+  for (const [id, p] of Object.entries(raw.players ?? {})) {
+    out.set(id.toLowerCase(), { age: p.age ?? null, role: p.role ?? null, roles: p.roles ?? [] });
+  }
+  return out;
+}
+
 const rosters = JSON.parse(await readFile('data/rosters.json', 'utf8'));
 const dbText = await readFile('data/raw/player-db.wikitext', 'utf8');
 const statsText = await readFile('data/raw/player-stats.wikitext', 'utf8');
@@ -149,6 +165,7 @@ const majorDb = parsePlayerDb(dbText);
 const majorTitles = parseMajorTitles(statsText);
 const teamPages = await parseTeamPages();
 const infoboxes = await parseInfoboxes();
+const archived = await parseArchived();
 
 const players = [];
 const problems = [];
@@ -162,7 +179,7 @@ for (const roster of rosters.rosters) {
     seen.add(key);
 
     const tp = teamPages.get(id) ?? teamPages.get(key);
-    const ib = infoboxes.get(key);
+    const ib = archived.get(key) ?? infoboxes.get(key);
     const db = majorDb.get(key);
     const country = (db?.flag || tp?.flag || entry.flag || '').toLowerCase();
     if (!country) {
@@ -202,14 +219,14 @@ const fields = ['team', 'role', 'country', 'age', 'majors', 'majorsPlayed', 'fir
 
 // Drop fields the dataset does not advertise, so the JSON stays small and honest.
 for (const p of players) {
-  for (const f of ['role', 'age', 'majorsPlayed', 'firstMajor']) {
+  for (const f of ['role', 'age']) {
     if (!fields.includes(f)) delete p[f];
   }
 }
 
 const dataset = {
   generatedAt: new Date().toISOString(),
-  source: 'Liquipedia (Major participants, Major database, Major titles, team pages)',
+  source: 'Liquipedia (Major participants, Major database, Major titles, team pages; player infoboxes via Wayback Machine)',
   snapshot: rosters.sourceDate ?? SNAPSHOT,
   fields,
   players,

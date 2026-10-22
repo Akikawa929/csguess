@@ -61,16 +61,25 @@ node scripts/validate.mjs
 
 ### 补「年龄 / 位置」字段（可选）
 
-年龄和位置需要选手个人页（infobox），2026-10-22 抓取时 Liquipedia 对我们 429 封禁了近 10 小时，
-所以第一版先不上这两个字段。代码已经支持：字段列表是数据驱动的，数据里有 age/role 就会自动多出两列。
+年龄和位置只在选手个人页（infobox）里。2026-10-22 抓取时 Liquipedia 对我们 429 封禁了 11 小时以上，
+所以第一版先用「Major 出场 / 首秀年份」顶上。字段列表是数据驱动的：数据里一旦有了 age/role，
+`build-players.mjs` 会自动补上这两列（位置覆盖率 ≥50%、年龄 ≥80% 才启用）。
 
-等解封后：
+补数据的两条路都已经写好：
 
 ```bash
+# A. Liquipedia 解封后（快）
 node scripts/retry-fetch.mjs     # 每 5 分钟探一次，解封后自动抓 4 批 infobox
-node scripts/build-players.mjs   # age/role 会自动进入 players.json 的 fields
+
+# B. 解封前走 Wayback Machine 的存档页（慢，约 12-16 秒/人）
+node scripts/fetch-archive.mjs   # 存到 data/raw/archive/<id>.html，可断点续抓
+node scripts/parse-archive.mjs   # 出生日期/年龄/位置/国籍 -> data/infobox.json
+
+node scripts/build-players.mjs   # age/role 自动进入 players.json 的 fields
 node scripts/build-web.mjs
 ```
+
+archive.org 限速很凶：并发必须为 1、间隔 2 秒，遇到 403/429/503 退避 45 秒，否则 IP 会被临时拒连。
 
 ## 部署
 
