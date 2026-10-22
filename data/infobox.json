@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T07:22:01.990Z",
+ "generatedAt": "2026-10-22T08:05:19.567Z",
  "source": "web.archive.org snapshots of liquipedia.net/counterstrike/<id>",
  "snapshot": "2026-10-22",
  "players": {
@@ -37,6 +37,19 @@
    "role": "IGL",
    "nationality": "Finland",
    "team": "Natus Vincere",
+   "status": "Active"
+  },
+  "alex666": {
+   "birth": "2001-08-03",
+   "birthExact": true,
+   "age": 25,
+   "roles": [
+    "In-game leader",
+    "Rifler"
+   ],
+   "role": "IGL",
+   "nationality": "Ukraine",
+   "team": "B8",
    "status": "Active"
   },
   "apEX": {
@@ -113,6 +126,19 @@
    "team": "paiN Gaming",
    "status": "Active"
   },
+  "blameF": {
+   "birth": "1997-06-10",
+   "birthExact": true,
+   "age": 29,
+   "roles": [
+    "Lurker",
+    "In-game leader"
+   ],
+   "role": "IGL",
+   "nationality": "Denmark",
+   "team": "BIG",
+   "status": "Active"
+  },
   "bLitz": {
    "birth": "2001-06-26",
    "birthExact": true,
@@ -124,6 +150,19 @@
    "role": "IGL",
    "nationality": "Mongolia",
    "team": "The MongolZ",
+   "status": "Active"
+  },
+  "Boombl4": {
+   "birth": "1998-12-20",
+   "birthExact": true,
+   "age": 27,
+   "roles": [
+    "In-game leader",
+    "Entry"
+   ],
+   "role": "IGL",
+   "nationality": "Russia",
+   "team": "BetBoom Team",
    "status": "Active"
   },
   "Brollan": {
@@ -149,6 +188,19 @@
    "role": "Rifle",
    "nationality": "Lithuania",
    "team": "Monte",
+   "status": "Active"
+  },
+  "Chr1zN": {
+   "birth": "2006-08-21",
+   "birthExact": true,
+   "age": 20,
+   "roles": [
+    "In-game leader",
+    "Rifler"
+   ],
+   "role": "IGL",
+   "nationality": "Denmark",
+   "team": "HEROIC",
    "status": "Active"
   },
   "cmtry": {
@@ -224,6 +276,18 @@
    "team": "FUT Esports",
    "status": "Active"
   },
+  "esenthial": {
+   "birth": "2006-02-26",
+   "birthExact": true,
+   "age": 20,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Ukraine",
+   "team": "B8",
+   "status": "Active"
+  },
   "FalleN": {
    "birth": "1991-05-30",
    "birthExact": true,
@@ -235,6 +299,30 @@
    "role": "IGL",
    "nationality": "Brazil",
    "team": "FURIA",
+   "status": "Active"
+  },
+  "faveN": {
+   "birth": "2000-02-08",
+   "birthExact": true,
+   "age": 26,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Germany",
+   "team": "9INE",
+   "status": "Active"
+  },
+  "FL4MUS": {
+   "birth": "2004-08-14",
+   "birthExact": true,
+   "age": 22,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Russia",
+   "team": "Virtus.pro",
    "status": "Active"
   },
   "flameZ": {
@@ -260,6 +348,18 @@
    "role": "IGL",
    "nationality": "United Kingdom",
    "team": "Monte",
+   "status": "Active"
+  },
+  "gr1ks": {
+   "birth": "2005-10-24",
+   "birthExact": true,
+   "age": 20,
+   "roles": [
+    "AWPer"
+   ],
+   "role": "AWP",
+   "nationality": "Belarus",
+   "team": "BIG",
    "status": "Active"
   },
   "HeavyGod": {
@@ -361,6 +461,18 @@
    "team": "PARIVISION",
    "status": "Active"
   },
+  "JDC": {
+   "birth": "2000-04-07",
+   "birthExact": true,
+   "age": 26,
+   "roles": [
+    "Rifler (support)"
+   ],
+   "role": "Support",
+   "nationality": "",
+   "team": "BIG",
+   "status": "Active"
+  },
   "karrigan": {
    "birth": "1990-04-14",
    "birthExact": true,
@@ -372,6 +484,18 @@
    "role": "IGL",
    "nationality": "",
    "team": "Team Falcons",
+   "status": "Active"
+  },
+  "kensizor": {
+   "birth": "2006-02-02",
+   "birthExact": true,
+   "age": 20,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Ukraine",
+   "team": "B8",
    "status": "Active"
   },
   "Krabeni": {
@@ -456,6 +580,18 @@
    "role": "IGL",
    "nationality": "Russia",
    "team": "Team Spirit",
+   "status": "Active"
+  },
+  "Magnojez": {
+   "birth": "2004-10-14",
+   "birthExact": true,
+   "age": 22,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Russia",
+   "team": "BetBoom Team",
    "status": "Active"
   },
   "MAJ3R": {
@@ -592,6 +728,18 @@
    "team": "Team Falcons",
    "status": "Active"
   },
+  "nilo": {
+   "birth": "2005-01-04",
+   "birthExact": true,
+   "age": 21,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Sweden",
+   "team": "HEROIC",
+   "status": "Active"
+  },
   "nota": {
    "birth": "2007-04-28",
    "birthExact": true,
@@ -703,6 +851,18 @@
    "team": "",
    "status": "Retired"
   },
+  "s1zzi": {
+   "birth": "2009-12-20",
+   "birthExact": true,
+   "age": 16,
+   "roles": [
+    "AWPer"
+   ],
+   "role": "AWP",
+   "nationality": "Ukraine",
+   "team": "",
+   "status": "Active"
+  },
   "saadzin": {
    "birth": "2004-05-14",
    "birthExact": true,
@@ -810,6 +970,30 @@
    "role": "AWP",
    "nationality": "Spain",
    "team": "G2 Esports",
+   "status": "Active"
+  },
+  "susp": {
+   "birth": "2005-01-07",
+   "birthExact": true,
+   "age": 21,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Sweden",
+   "team": "HEROIC",
+   "status": "Active"
+  },
+  "tabseN": {
+   "birth": "1995-04-05",
+   "birthExact": true,
+   "age": 31,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Germany",
+   "team": "BIG",
    "status": "Active"
   },
   "Tauson": {
@@ -945,6 +1129,18 @@
    "team": "MOUZ",
    "status": "Active"
   },
+  "xfl0ud": {
+   "birth": "2002-12-23",
+   "birthExact": true,
+   "age": 23,
+   "roles": [
+    "Support"
+   ],
+   "role": "Support",
+   "nationality": "Turkey",
+   "team": "FUT Esports",
+   "status": "Active"
+  },
   "xiELO": {
    "birth": "2006-01-28",
    "birthExact": true,
@@ -981,6 +1177,18 @@
    "team": "FURIA",
    "status": "Active"
   },
+  "yxngstxr": {
+   "birth": "2004-10-22",
+   "birthExact": true,
+   "age": 22,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "Sweden",
+   "team": "HEROIC",
+   "status": "Active"
+  },
   "zont1x": {
    "birth": "2005-07-20",
    "birthExact": true,
@@ -991,6 +1199,18 @@
    "role": "Rifle",
    "nationality": "Ukraine",
    "team": "Team Spirit",
+   "status": "Active"
+  },
+  "zorte": {
+   "birth": "1998-05-27",
+   "birthExact": true,
+   "age": 28,
+   "roles": [
+    "AWPer"
+   ],
+   "role": "AWP",
+   "nationality": "Russia",
+   "team": "BetBoom Team",
    "status": "Active"
   },
   "zweih": {

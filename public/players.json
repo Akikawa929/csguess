@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:22:43.459Z",
+  "generatedAt": "2026-10-22T08:05:19.745Z",
   "source": "Liquipedia (Major participants, Major database, Major titles, team pages; player infoboxes via Wayback Machine)",
   "snapshot": "2026-06-02/2026-06-21",
   "fields": [
@@ -48,6 +48,19 @@
       "majorsPlayed": 10,
       "firstMajor": 2019,
       "age": 29,
+      "role": "IGL"
+    },
+    {
+      "id": "alex666",
+      "team": "B8",
+      "teamRegion": "CIS",
+      "country": "ua",
+      "countryName": "乌克兰",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 25,
       "role": "IGL"
     },
     {
@@ -129,6 +142,19 @@
       "role": "IGL"
     },
     {
+      "id": "blameF",
+      "team": "BIG",
+      "teamRegion": "EU",
+      "country": "dk",
+      "countryName": "丹麦",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2022,
+      "age": 29,
+      "role": "IGL"
+    },
+    {
       "id": "bLitz",
       "team": "The MongolZ",
       "teamRegion": "APAC",
@@ -139,6 +165,19 @@
       "majorsPlayed": 8,
       "firstMajor": 2022,
       "age": 25,
+      "role": "IGL"
+    },
+    {
+      "id": "Boombl4",
+      "team": "BetBoom Team",
+      "teamRegion": "CIS",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 1,
+      "majorsPlayed": 10,
+      "firstMajor": 2018,
+      "age": 27,
       "role": "IGL"
     },
     {
@@ -166,6 +205,19 @@
       "firstMajor": 2021,
       "age": 23,
       "role": "Rifle"
+    },
+    {
+      "id": "Chr1zN",
+      "team": "HEROIC",
+      "teamRegion": "EU",
+      "country": "dk",
+      "countryName": "丹麦",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 20,
+      "role": "IGL"
     },
     {
       "id": "cmtry",
@@ -233,6 +285,19 @@
       "role": "Rifle"
     },
     {
+      "id": "esenthial",
+      "team": "B8",
+      "teamRegion": "CIS",
+      "country": "ua",
+      "countryName": "乌克兰",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 20,
+      "role": "Rifle"
+    },
+    {
       "id": "FalleN",
       "team": "FURIA",
       "teamRegion": "SA",
@@ -244,6 +309,32 @@
       "firstMajor": 2015,
       "age": 35,
       "role": "IGL"
+    },
+    {
+      "id": "faveN",
+      "team": "BIG",
+      "teamRegion": "EU",
+      "country": "de",
+      "countryName": "德国",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2022,
+      "age": 26,
+      "role": "Rifle"
+    },
+    {
+      "id": "FL4MUS",
+      "team": "BetBoom Team",
+      "teamRegion": "CIS",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2024,
+      "age": 22,
+      "role": "Rifle"
     },
     {
       "id": "flameZ",
@@ -270,6 +361,19 @@
       "firstMajor": 2026,
       "age": 22,
       "role": "IGL"
+    },
+    {
+      "id": "gr1ks",
+      "team": "BIG",
+      "teamRegion": "EU",
+      "country": "by",
+      "countryName": "白俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 20,
+      "role": "AWP"
     },
     {
       "id": "HeavyGod",
@@ -376,6 +480,19 @@
       "role": "IGL"
     },
     {
+      "id": "JDC",
+      "team": "BIG",
+      "teamRegion": "EU",
+      "country": "de",
+      "countryName": "德国",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2022,
+      "age": 26,
+      "role": "Support"
+    },
+    {
       "id": "karrigan",
       "team": "Team Falcons",
       "teamRegion": "ME",
@@ -387,6 +504,19 @@
       "firstMajor": 2013,
       "age": 36,
       "role": "IGL"
+    },
+    {
+      "id": "kensizor",
+      "team": "B8",
+      "teamRegion": "CIS",
+      "country": "ua",
+      "countryName": "乌克兰",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2025,
+      "age": 20,
+      "role": "Rifle"
     },
     {
       "id": "Krabeni",
@@ -478,6 +608,19 @@
       "firstMajor": 2021,
       "age": 23,
       "role": "IGL"
+    },
+    {
+      "id": "Magnojez",
+      "team": "BetBoom Team",
+      "teamRegion": "CIS",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 22,
+      "role": "Rifle"
     },
     {
       "id": "MAJ3R",
@@ -623,6 +766,19 @@
       "role": "Entry"
     },
     {
+      "id": "nilo",
+      "team": "HEROIC",
+      "teamRegion": "EU",
+      "country": "se",
+      "countryName": "瑞典",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 21,
+      "role": "Rifle"
+    },
+    {
       "id": "nota",
       "team": "PARIVISION",
       "teamRegion": "CIS",
@@ -712,6 +868,19 @@
       "firstMajor": 2017,
       "age": 26,
       "role": "Rifle"
+    },
+    {
+      "id": "s1zzi",
+      "team": "B8",
+      "teamRegion": "CIS",
+      "country": "ua",
+      "countryName": "乌克兰",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 16,
+      "role": "AWP"
     },
     {
       "id": "saadzin",
@@ -829,6 +998,32 @@
       "firstMajor": 2021,
       "age": 27,
       "role": "AWP"
+    },
+    {
+      "id": "susp",
+      "team": "HEROIC",
+      "teamRegion": "EU",
+      "country": "se",
+      "countryName": "瑞典",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2024,
+      "age": 21,
+      "role": "Rifle"
+    },
+    {
+      "id": "tabseN",
+      "team": "BIG",
+      "teamRegion": "EU",
+      "country": "de",
+      "countryName": "德国",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 10,
+      "firstMajor": 2014,
+      "age": 31,
+      "role": "Rifle"
     },
     {
       "id": "Tauson",
@@ -974,6 +1169,19 @@
       "role": "IGL"
     },
     {
+      "id": "xfl0ud",
+      "team": "FUT Esports",
+      "teamRegion": "EU",
+      "country": "tr",
+      "countryName": "土耳其",
+      "region": "ME",
+      "majors": 0,
+      "majorsPlayed": 3,
+      "firstMajor": 2022,
+      "age": 23,
+      "role": "Support"
+    },
+    {
       "id": "xiELO",
       "team": "PARIVISION",
       "teamRegion": "CIS",
@@ -1013,6 +1221,19 @@
       "role": "Rifle"
     },
     {
+      "id": "yxngstxr",
+      "team": "HEROIC",
+      "teamRegion": "EU",
+      "country": "se",
+      "countryName": "瑞典",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
       "id": "zont1x",
       "team": "Team Spirit",
       "teamRegion": "CIS",
@@ -1024,6 +1245,19 @@
       "firstMajor": 2024,
       "age": 21,
       "role": "Rifle"
+    },
+    {
+      "id": "zorte",
+      "team": "BetBoom Team",
+      "teamRegion": "CIS",
+      "country": "ru",
+      "countryName": "俄罗斯",
+      "region": "CIS",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2022,
+      "age": 28,
+      "role": "AWP"
     },
     {
       "id": "zweih",
