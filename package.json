@@ -1,0 +1,23 @@
+{
+  "name": "csguess",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "猜 CS 选手 — Wordle 式每日一题，数据来自 Liquipedia",
+  "scripts": {
+    "build": "node scripts/build-web.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node test/game.test.ts",
+    "test:ui": "node test/ui.test.mjs && node test/standalone.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "build:data": "node scripts/build-players.mjs",
+    "validate": "node scripts/validate.mjs",
+    "fetch:teams": "node scripts/fetch-teams.mjs",
+    "fetch:players": "node scripts/fetch-players.mjs",
+    "retry": "node scripts/retry-fetch.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,806 @@
+{
+  "major": "Intel Extreme Masters/2026/Cologne",
+  "sourceDate": "2026-06-02/2026-06-21",
+  "rosters": [
+    {
+      "team": "Team Vitality",
+      "players": [
+        {
+          "id": "apEX",
+          "flag": null
+        },
+        {
+          "id": "ZywOo",
+          "flag": null
+        },
+        {
+          "id": "flameZ",
+          "flag": null
+        },
+        {
+          "id": "mezii",
+          "flag": null
+        },
+        {
+          "id": "ropz",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Natus Vincere",
+      "players": [
+        {
+          "id": "b1t",
+          "flag": null
+        },
+        {
+          "id": "Aleksib",
+          "flag": null
+        },
+        {
+          "id": "iM",
+          "flag": null
+        },
+        {
+          "id": "w0nderful",
+          "flag": null
+        },
+        {
+          "id": "makazze",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Team Falcons",
+      "players": [
+        {
+          "id": "NiKo",
+          "flag": null
+        },
+        {
+          "id": "TeSeS",
+          "flag": null
+        },
+        {
+          "id": "m0NESY",
+          "flag": null
+        },
+        {
+          "id": "kyousuke",
+          "flag": null
+        },
+        {
+          "id": "karrigan",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "The MongolZ",
+      "players": [
+        {
+          "id": "bLitz",
+          "flag": null
+        },
+        {
+          "id": "Techno4K",
+          "flag": null
+        },
+        {
+          "id": "910",
+          "flag": null
+        },
+        {
+          "id": "mzinho",
+          "flag": null
+        },
+        {
+          "id": "cobrazera",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "PARIVISION",
+      "players": [
+        {
+          "id": "BELCHONOKK",
+          "flag": null
+        },
+        {
+          "id": "Jame",
+          "flag": null
+        },
+        {
+          "id": "nota",
+          "flag": null
+        },
+        {
+          "id": "xiELO",
+          "flag": null
+        },
+        {
+          "id": "zweih",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Aurora Gaming",
+      "players": [
+        {
+          "id": "XANTARES",
+          "flag": null
+        },
+        {
+          "id": "MAJ3R",
+          "flag": null
+        },
+        {
+          "id": "Wicadia",
+          "flag": null
+        },
+        {
+          "id": "woxic",
+          "flag": null
+        },
+        {
+          "id": "soulfly",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "FURIA",
+      "players": [
+        {
+          "id": "yuurih",
+          "flag": null
+        },
+        {
+          "id": "KSCERATO",
+          "flag": null
+        },
+        {
+          "id": "FalleN",
+          "flag": null
+        },
+        {
+          "id": "molodoy",
+          "flag": null
+        },
+        {
+          "id": "YEKINDAR",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "MOUZ",
+      "players": [
+        {
+          "id": "torzsi",
+          "flag": null
+        },
+        {
+          "id": "xertioN",
+          "flag": null
+        },
+        {
+          "id": "Brollan",
+          "flag": null
+        },
+        {
+          "id": "Spinx",
+          "flag": null
+        },
+        {
+          "id": "xelex",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "FUT Esports",
+      "players": [
+        {
+          "id": "dem0n",
+          "flag": null
+        },
+        {
+          "id": "Krabeni",
+          "flag": null
+        },
+        {
+          "id": "cmtry",
+          "flag": null
+        },
+        {
+          "id": "dziugss",
+          "flag": null
+        },
+        {
+          "id": "lauNX",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Team Spirit",
+      "players": [
+        {
+          "id": "magixx",
+          "flag": null
+        },
+        {
+          "id": "zont1x",
+          "flag": null
+        },
+        {
+          "id": "donk",
+          "flag": null
+        },
+        {
+          "id": "sh1ro",
+          "flag": null
+        },
+        {
+          "id": "tN1R",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Astralis",
+      "players": [
+        {
+          "id": "Staehr",
+          "flag": null
+        },
+        {
+          "id": "jabbi",
+          "flag": null
+        },
+        {
+          "id": "HooXi",
+          "flag": null
+        },
+        {
+          "id": "phzy",
+          "flag": null
+        },
+        {
+          "id": "ryu",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "G2 Esports",
+      "players": [
+        {
+          "id": "huNter-",
+          "flag": null
+        },
+        {
+          "id": "HeavyGod",
+          "flag": null
+        },
+        {
+          "id": "SunPayus",
+          "flag": null
+        },
+        {
+          "id": "matys",
+          "flag": null
+        },
+        {
+          "id": "NertZ",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Legacy",
+      "players": [
+        {
+          "id": "latto",
+          "flag": null
+        },
+        {
+          "id": "dumau",
+          "flag": null
+        },
+        {
+          "id": "saadzin",
+          "flag": null
+        },
+        {
+          "id": "n1ssim",
+          "flag": null
+        },
+        {
+          "id": "arT",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "paiN Gaming",
+      "players": [
+        {
+          "id": "biguzera",
+          "flag": null
+        },
+        {
+          "id": "snow",
+          "flag": null
+        },
+        {
+          "id": "piriajr",
+          "flag": null
+        },
+        {
+          "id": "v$m",
+          "flag": null
+        },
+        {
+          "id": "saffee",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Monte",
+      "players": [
+        {
+          "id": "Gizmy",
+          "flag": null
+        },
+        {
+          "id": "afro",
+          "flag": null
+        },
+        {
+          "id": "AZUWU",
+          "flag": null
+        },
+        {
+          "id": "Bymas",
+          "flag": null
+        },
+        {
+          "id": "Rainwaker",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "9z Team",
+      "players": [
+        {
+          "id": "max",
+          "flag": null
+        },
+        {
+          "id": "HUASOPEEK",
+          "flag": null
+        },
+        {
+          "id": "luchov",
+          "flag": null
+        },
+        {
+          "id": "meyern",
+          "flag": null
+        },
+        {
+          "id": "dgt",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "GamerLegion",
+      "players": [
+        {
+          "id": "Tauson",
+          "flag": null
+        },
+        {
+          "id": "PR",
+          "flag": null
+        },
+        {
+          "id": "REZ",
+          "flag": null
+        },
+        {
+          "id": "hypex",
+          "flag": null
+        },
+        {
+          "id": "Snax",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "B8",
+      "players": [
+        {
+          "id": "npl",
+          "flag": null
+        },
+        {
+          "id": "esenthial",
+          "flag": null
+        },
+        {
+          "id": "alex666",
+          "flag": null
+        },
+        {
+          "id": "kensizor",
+          "flag": null
+        },
+        {
+          "id": "s1zzi",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "HEROIC",
+      "players": [
+        {
+          "id": "yxngstxr",
+          "flag": null
+        },
+        {
+          "id": "xfl0ud",
+          "flag": null
+        },
+        {
+          "id": "nilo",
+          "flag": null
+        },
+        {
+          "id": "Chr1zN",
+          "flag": null
+        },
+        {
+          "id": "susp",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "BetBoom Team",
+      "players": [
+        {
+          "id": "zorte",
+          "flag": null
+        },
+        {
+          "id": "Magnojez",
+          "flag": null
+        },
+        {
+          "id": "Boombl4",
+          "flag": null
+        },
+        {
+          "id": "FL4MUS",
+          "flag": null
+        },
+        {
+          "id": "d1Ledez",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "BIG",
+      "players": [
+        {
+          "id": "tabseN",
+          "flag": null
+        },
+        {
+          "id": "JDC",
+          "flag": null
+        },
+        {
+          "id": "gr1ks",
+          "flag": null
+        },
+        {
+          "id": "blameF",
+          "flag": null
+        },
+        {
+          "id": "faveN",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "M80",
+      "players": [
+        {
+          "id": "Swisher",
+          "flag": null
+        },
+        {
+          "id": "slaxz-",
+          "flag": null
+        },
+        {
+          "id": "s1n",
+          "flag": null
+        },
+        {
+          "id": "Lake",
+          "flag": null
+        },
+        {
+          "id": "JBa",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "MIBR",
+      "players": [
+        {
+          "id": "brnz4n",
+          "flag": null
+        },
+        {
+          "id": "insani",
+          "flag": null
+        },
+        {
+          "id": "kl1m",
+          "flag": null
+        },
+        {
+          "id": "LNZ",
+          "flag": null
+        },
+        {
+          "id": "venomzera",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "SINNERS Esports",
+      "players": [
+        {
+          "id": "beastik",
+          "flag": null
+        },
+        {
+          "id": "SHOCK",
+          "flag": null
+        },
+        {
+          "id": "kisserek",
+          "flag": null
+        },
+        {
+          "id": "stressarN",
+          "flag": null
+        },
+        {
+          "id": "MoDo",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "NRG",
+      "players": [
+        {
+          "id": "oSee",
+          "flag": null
+        },
+        {
+          "id": "nitr0",
+          "flag": null
+        },
+        {
+          "id": "br0",
+          "flag": null
+        },
+        {
+          "id": "Sonic",
+          "flag": null
+        },
+        {
+          "id": "Grim",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "TYLOO",
+      "players": [
+        {
+          "id": "JamYoung",
+          "flag": null
+        },
+        {
+          "id": "Moseyuh",
+          "flag": null
+        },
+        {
+          "id": "Mercury",
+          "flag": null
+        },
+        {
+          "id": "Jee",
+          "flag": null
+        },
+        {
+          "id": "Zero",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Sharks Esports",
+      "players": [
+        {
+          "id": "gafolo",
+          "flag": null
+        },
+        {
+          "id": "rdnzao",
+          "flag": null
+        },
+        {
+          "id": "doc",
+          "flag": null
+        },
+        {
+          "id": "koala",
+          "flag": null
+        },
+        {
+          "id": "maxxkor",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Gaimin Gladiators",
+      "players": [
+        {
+          "id": "JOTA",
+          "flag": null
+        },
+        {
+          "id": "NEKIZ",
+          "flag": null
+        },
+        {
+          "id": "HEN1",
+          "flag": null
+        },
+        {
+          "id": "Luken",
+          "flag": null
+        },
+        {
+          "id": "fer",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Team Liquid",
+      "players": [
+        {
+          "id": "NAF",
+          "flag": null
+        },
+        {
+          "id": "ultimate",
+          "flag": null
+        },
+        {
+          "id": "siuhy",
+          "flag": null
+        },
+        {
+          "id": "EliGE",
+          "flag": null
+        },
+        {
+          "id": "malbsMd",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "Lynn Vision Gaming",
+      "players": [
+        {
+          "id": "westmelon",
+          "flag": null
+        },
+        {
+          "id": "z4kr",
+          "flag": null
+        },
+        {
+          "id": "EmiliaQAQ",
+          "flag": null
+        },
+        {
+          "id": "Starry",
+          "flag": null
+        },
+        {
+          "id": "C4LLM3SU3",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "THUNDERdOWNUNDER",
+      "players": [
+        {
+          "id": "asap",
+          "flag": null
+        },
+        {
+          "id": "TjP",
+          "flag": null
+        },
+        {
+          "id": "aliStair",
+          "flag": null
+        },
+        {
+          "id": "dexter",
+          "flag": null
+        },
+        {
+          "id": "Liazz",
+          "flag": null
+        }
+      ]
+    },
+    {
+      "team": "FlyQuest",
+      "players": [
+        {
+          "id": "INS",
+          "flag": null
+        },
+        {
+          "id": "Vexite",
+          "flag": null
+        },
+        {
+          "id": "nettik",
+          "flag": null
+        },
+        {
+          "id": "jks",
+          "flag": null
+        },
+        {
+          "id": "story",
+          "flag": null
+        }
+      ]
+    }
+  ]
+}

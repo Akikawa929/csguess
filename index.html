@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>CS 选手猜猜猜</title>
+    <meta name="description" content="每天一位 CS 职业选手，用 6 次机会猜出他是谁。" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>" />
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <header class="top">
+      <h1>CS 选手猜猜猜</h1>
+      <p class="sub">每天一位现役职业选手 · 6 次机会 · 绿对黄近红错</p>
+    </header>
+
+    <main>
+      <div class="grid-head" id="grid-head" aria-hidden="true"></div>
+      <div id="board" class="board"></div>
+
+      <form id="guess-form" class="input-row" autocomplete="off">
+        <input
+          id="guess-input"
+          list="player-list"
+          placeholder="输入选手昵称，比如 ZywOo"
+          aria-label="选手昵称"
+          spellcheck="false"
+        />
+        <datalist id="player-list"></datalist>
+        <button id="guess-btn" type="submit">猜</button>
+      </form>
+      <p id="hint" class="hint" role="status"></p>
+
+      <section id="result" class="result" hidden>
+        <p id="result-text"></p>
+        <button id="share-btn" type="button">复制成绩</button>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <p>数据来自 Liquipedia · 池子为 2026 IEM Cologne Major 参赛选手</p>
+    </footer>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

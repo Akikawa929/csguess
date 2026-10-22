@@ -1,0 +1,2450 @@
+{{DISPLAYTITLE:Valve Major Championships: Player Statistics}}
+{{Majors Navbox}}<br>
+{{Tabs static
+|name1=Overview|link1=Majors
+|name2=Team Statistics|link2=Majors/Team Statistics
+|name3=Player Statistics|link3=Majors/Player Statistics
+|name4=Player Database|link4=Majors/Player Database
+<!--|name5=Coach Statistics|link5=Majors/Coach Statistics-->
+}}
+
+==Player Performances==
+{{box|start|padding=2em}}
+===Country Medals===
+{| class="wikitable plainrowheaders sortable"
+|-
+!scope=col|Team
+!scope=col style="width: 60px;"|{{Medal|1}}
+!scope=col style="width: 60px;"|{{Medal|2}}
+!scope=col style="width: 60px;"|{{Medal|SF}}
+!scope=col|Total
+|-
+!|{{TeamIcon|denmark}}
+|class="bg-first" align=center|'''25'''
+|style="text-align:center;" |10
+|style="text-align:center;" |37
+|style="text-align:center;" |'''72'''
+|-
+!|{{TeamIcon|sweden}}
+|class="bg-first" align=center|'''20'''
+|style="text-align:center;" |26
+|style="text-align:center;" |24
+|style="text-align:center;" |'''70'''
+|-
+!|{{TeamIcon|france}}
+|class="bg-first" align=center|'''16'''
+|style="text-align:center;" |7
+|style="text-align:center;" |14
+|style="text-align:center;" |'''37'''
+|-
+!|{{TeamIcon|russia}}
+|class="bg-first" align=center|'''14'''
+|style="text-align:center;" |10
+|style="text-align:center;" |23
+|style="text-align:center;" |'''47'''
+|-
+!|{{TeamIcon|brazil}}
+|class="bg-first" align=center|'''10'''
+|style="text-align:center;" |8
+|style="text-align:center;" |26
+|style="text-align:center;" |'''44'''
+|-
+!|{{TeamIcon|ukraine}}
+|class="bg-first" align=center|'''6'''
+|style="text-align:center;" |10
+|style="text-align:center;" |13
+|style="text-align:center;" |'''29'''
+|-
+!|{{TeamIcon|poland}}
+|class="bg-first" align=center|'''5'''
+|style="text-align:center;" |7
+|style="text-align:center;" |29
+|style="text-align:center;" |'''41'''
+|-
+!|{{TeamIcon|usa}}
+|class="bg-first" align=center|'''5'''
+|style="text-align:center;" |4
+|style="text-align:center;" |15
+|style="text-align:center;" |'''24'''
+|-
+!|{{TeamIcon|kazakhstan}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |4
+|style="text-align:center;" |1
+|style="text-align:center;" |'''9'''
+|-
+!|{{TeamIcon|estonia}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |2
+|style="text-align:center;" |0
+|style="text-align:center;" |'''5'''
+|-
+!|{{TeamIcon|israel}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |0
+|style="text-align:center;" |7
+|style="text-align:center;" |'''10'''
+|-
+!|{{TeamIcon|united kingdom}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |0
+|style="text-align:center;" |1
+|style="text-align:center;" |'''3'''
+|-
+!|{{TeamIcon|finland}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |6
+|style="text-align:center;" |4
+|style="text-align:center;" |'''11'''
+|-
+!|{{TeamIcon|latvia}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |4
+|style="text-align:center;" |0
+|style="text-align:center;" |'''5'''
+|-
+!|{{TeamIcon|norway}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |3
+|style="text-align:center;" |4
+|style="text-align:center;" |'''8'''
+|-
+!|{{TeamIcon|bosnia and herzegovina}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |3
+|style="text-align:center;" |4
+|style="text-align:center;" |'''8'''
+|-
+!|{{TeamIcon|canada}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |1
+|style="text-align:center;" |4
+|style="text-align:center;" |'''6'''
+|-
+!|{{TeamIcon|romania}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |1
+|style="text-align:center;" |1
+|style="text-align:center;" |'''3'''
+|-
+!|{{TeamIcon|lithuania}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |0
+|style="text-align:center;" |1
+|style="text-align:center;" |'''2'''
+|-
+!|{{TeamIcon|slovakia}}
+|style="text-align:center;" |'''0'''
+|class="bg-second" align=center|6
+|style="text-align:center;" |3
+|style="text-align:center;" |'''9'''
+|-
+!|{{TeamIcon|mongolia}}
+|style="text-align:center;" |'''0'''
+|class="bg-second" align=center|5
+|style="text-align:center;" |0
+|style="text-align:center;" |'''5'''
+|-
+!|{{TeamIcon|belgium}}
+|style="text-align:center;" |'''0'''
+|class="bg-second" align=center|1
+|style="text-align:center;" |2
+|style="text-align:center;" |'''3'''
+|-
+!|{{TeamIcon|serbia}}
+|style="text-align:center;" |'''0'''
+|class="bg-second" align=center|1
+|style="text-align:center;" |1
+|style="text-align:center;" |'''2'''
+|-
+!|{{TeamIcon|uzbekistan}}
+|style="text-align:center;" |'''0'''
+|class="bg-second" align=center|1
+|style="text-align:center;" |0
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|turkey}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|5
+|style="text-align:center;" |'''5'''
+|-
+!|{{TeamIcon|australia}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|4
+|style="text-align:center;" |'''4'''
+|-
+!|{{TeamIcon|hungary}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|3
+|style="text-align:center;" |'''3'''
+|-
+!|{{TeamIcon|portugal}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|2
+|style="text-align:center;" |'''2'''
+|-
+!|{{TeamIcon|belarus}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|2
+|style="text-align:center;" |'''2'''
+|-
+!|{{TeamIcon|switzerland}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|bulgaria}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|new zealand}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|montenegro}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|germany}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|north macedonia}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|guatemala}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|chile}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|uruguay}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+!|{{TeamIcon|kosovo}}
+|style="text-align:center;" |'''0'''
+|style="text-align:center;" |0
+|class="bg-third" align=center|1
+|style="text-align:center;" |'''1'''
+|-
+|}
+{{box|break|padding=2em}}
+
+===HLTV  Major MVP Awards===
+{| class="wikitable"
+|-
+! Major  !! Player !! Team
+|-
+|<small><small>'''[[DreamHack/2013/Winter|DH Winter 2013]]'''</small></small> || {{player|JW|flag=se}} || {{TeamIcon|FNC|2013-11-30}}
+|-
+|<small><small>'''[[ESL/Major_Series_One/2014/Katowice|ESL Katowice 2014]]'''</small></small>|| {{player|pashaBiceps|flag=pl}} || {{TeamIcon|VP|2014-03-16}}
+|-
+|<small><small>'''[[ESL/One/2014/Cologne|ESL Cologne 2014]]'''</small></small> || {{player|friberg|flag=se}} || {{TeamIcon|NIP|2014-08-17}}
+|-
+|<small><small>'''[[DreamHack/2014/Winter|DH Winter 2014]]'''</small></small> || {{player|Happy|flag=fr}} || {{TeamIcon|LDLC|2014-11-29}}
+|-
+|<small><small>'''[[ESL/One/2015/Katowice|ESL Katowice 2015]]'''</small></small> || {{player|olofmeister|flag=se}} || {{TeamIcon|FNC|2015-03-15}}
+|-
+|<small><small>'''[[ESL/One/2015/Cologne|ESL Cologne 2015]]'''</small></small> || {{player|flusha|flag=se}} || {{TeamIcon|FNC|2015-08-23}}
+|-
+|<small><small>'''[[DreamHack/2015/Cluj-Napoca|DH Cluj&#8209;Napoca 2015]]'''</small></small> || {{player|kennyS|flag=fr}} || {{TeamIcon|nV|2015-11-01}}
+|-
+|<small><small>'''[[MLG/2016/Columbus|MLG Columbus 2016]]'''</small></small> || {{player|coldzera|flag=br}} || {{TeamIcon|LG|2016-04-03}}
+|-
+|<small><small>'''[[ESL/One/2016/Cologne|ESL Cologne 2016]]'''</small></small> || {{player|coldzera|flag=br}} || {{TeamIcon|SK|2016-07-10}}
+|-
+|<small><small>'''[[ELEAGUE/2017/Major|EL Atlanta 2017]]'''</small></small> || {{player|Kjaerbye|flag=dk}} || {{TeamIcon|Astralis|2017-01-29}}
+|-
+|<small><small>'''[[PGL/2017/Krakow|PGL Kraków 2017]]'''</small></small> || {{player|AdreN|link=AdreN (Kazakh player)|flag=kz}} || {{TeamIcon|Gambit|2017-07-23}}
+|-
+|<small><small>'''[[ELEAGUE/2018/Major|EL Boston 2018]]'''</small></small> || {{player|tarik|flag=us}} || {{TeamIcon|C9|2018-01-28}}
+|-
+|<small><small>'''[[FACEIT/2018/Major|FACEIT London 2018]]'''</small></small> || {{player|dev1ce|flag=dk}} || {{TeamIcon|Astralis|2018-09-23}}
+|-
+|<small><small>'''[[Intel_Extreme_Masters/Season_XIII/World_Championship|IEM Katowice 2019]]'''</small></small> || {{player|Magisk|flag=dk}} || {{TeamIcon|Astralis|2019-03-03}}
+|-
+|<small><small>'''[[StarLadder/2019/Major|SL Berlin 2019]]'''</small></small> || {{player|dev1ce|flag=dk}} || {{TeamIcon|Astralis|2019-09-08}}
+|-
+|<small><small>'''[[PGL/2021/Stockholm|PGL Stockholm 2021]]'''</small></small> || {{player|s1mple|flag=ua}} || {{TeamIcon|NAVI|2021-11-07}}
+|-
+|<small><small>'''[[PGL/2022/Antwerp|PGL Antwerp 2022]]'''</small></small> || {{player|rain|flag=no}} || {{TeamIcon|FaZe|2022-05-22}}
+|-
+|<small><small>'''[[Intel_Extreme_Masters/2022/Rio|IEM Rio 2022]]'''</small></small> || {{player|Jame|flag=ru}} || {{TeamIcon|Outsiders|2022-11-13}}
+|-
+|<small><small>'''[[BLAST/Major/2023/Paris|BLAST Paris 2023]]'''</small></small> || {{player|ZywOo|flag=fr}} || {{TeamIcon|vit|2023-05-21}}
+|-
+|<small><small>'''[[PGL/2024/Copenhagen|PGL Copenhagen 2024]]'''</small></small> || {{player|jL|flag=lt}} || {{TeamIcon|navi|2024-03-31}}
+|-
+|<small><small>'''[[Perfect World/Major/2024/Shanghai|PW Shanghai 2024]]'''</small></small> || {{player|donk|flag=ru}} || {{TeamIcon|spirit|2024-12-15}}
+|-
+|<small><small>'''[[BLAST/Major/2025/Austin|BLAST Austin 2025]]'''</small></small> || {{player|ZywOo|flag=fr}} || {{TeamIcon|vit|2025-06-22}}
+|-
+|<small><small>'''[[StarLadder/2025/Major|SL Budapest 2025]]'''</small></small> || {{player|ZywOo|flag=fr}} || {{TeamIcon|vit|2025-11-24}}
+|-
+|<small><small>'''[[Intel Extreme Masters/2026/Cologne|IEM Cologne 2026]]'''</small></small> || {{player|m0NESY|flag=ru}} || {{TeamIcon|falcons|2026-06-21}}
+|}
+{{box|end}}
+
+===Titles Won per Player===
+{{box|start|padding=2em}}
+<!-- Default sorting is alphabetical but keep players of the same nationality together, then oldest to newest in terms of first Major win -->
+{| class="wikitable plainrowheaders sortable" style="width: 317px" <!-- remove width when/if a player with three teams gets three major wins, it's only to match the above tables for now -->
+|-
+!scope=col|Player
+!scope=col style="width: 60px;" |{{Medal|1}}
+!scope=col|Team(s)
+|-
+|{{player|dupreeh|flag=dk}}
+|class="bg-first" align=center|'''5'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}} {{TeamIcon|team vitality 2023}}
+|-
+|{{player|dev1ce|flag=dk}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}}
+|-
+|{{player|Xyp9x|flag=dk}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}}
+|-
+|{{player|gla1ve|flag=dk}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}}
+|-
+|{{player|Magisk|flag=dk}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}} {{TeamIcon|team vitality 2023}}
+|-
+|{{player|apEX|flag=fr}}
+|class="bg-first" align=center|'''4'''
+|style="text-align:center;" |{{TeamIcon|team envyus orig}} {{TeamIcon|team vitality 2023}}
+|-
+|{{player|flusha|flag=se}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|JW|flag=se}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|pronax|flag=se}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|ropz|flag=ee}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |{{TeamIcon|faze clan nov 2021}} {{TeamIcon|team vitality 2023}}
+|-
+|{{player|ZywOo|flag=fr}}
+|class="bg-first" align=center|'''3'''
+|style="text-align:center;" |{{TeamIcon|team vitality 2023}}
+|-
+|{{player|olofmeister|flag=se}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|KRIMZ|flag=se}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|Happy|flag=fr}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|team ldlc.com 2012}} {{TeamIcon|team envyus orig}}
+|-
+|{{player|NBK-|flag=fr}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|team ldlc.com 2012}} {{TeamIcon|team envyus orig}}
+|-
+|{{player|kioShiMa|flag=fr}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|team ldlc.com 2012}} {{TeamIcon|team envyus orig}}
+|-
+|{{player|FalleN|flag=br}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|luminosity gaming orig}} {{TeamIcon|sk}}
+|-
+|{{player|fer|flag=br}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|luminosity gaming orig}} {{TeamIcon|sk}}
+|-
+|{{player|coldzera|flag=br}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|luminosity gaming orig}} {{TeamIcon|sk}}
+|-
+|{{player|fnx|flag=br}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|luminosity gaming orig}} {{TeamIcon|sk}}
+|-
+|{{player|TACO|flag=br}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|luminosity gaming orig}} {{TeamIcon|sk}}
+|-
+|{{player|b1t|flag=ua}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|navi}}
+|-
+|{{player|mezii|flag=uk}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|team vitality 2023}}
+|-
+|{{player|flameZ|flag=il}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|team vitality 2023}}
+|-
+|{{player|karrigan|flag=dk}}
+|class="bg-first" align=center|'''2'''
+|style="text-align:center;" |{{TeamIcon|faze clan nov 2021}} {{TeamIcon|team falcons 2022}}
+|-
+<!--
+!scope=col|Player
+!scope=col style="width: 60px;" |{{Medal|1}}
+!scope=col|Team(s)
+|- not sure if this would really be needed, maybe just have two tables and put them in a {{box}}
+-->
+|{{player|Devilwalk|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|znajder|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|fnatic orig}}
+|-
+|{{player|TaZ|flag=pl}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|virtus.pro 2012 2}}
+|-
+|{{player|NEO|flag=pl}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|virtus.pro 2012 2}}
+|-
+|{{player|pashaBiceps|flag=pl}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|virtus.pro 2012 2}}
+|-
+|{{player|Snax|flag=pl}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|virtus.pro 2012 2}}
+|-
+|{{player|byali|flag=pl}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|virtus.pro 2012 2}}
+|}
+{{box|break|padding=2em}}
+{| class="wikitable plainrowheaders sortable" style="width: 317px" <!-- remove width when/if a player with three teams gets three major wins, it's only to match the above tables for now -->
+|-
+!scope=col|Player
+!scope=col style="width: 60px;" |{{Medal|1}}
+!scope=col|Team(s)
+|-
+|{{player|f0rest|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|ninjas in pyjamas 2012}}
+|-
+|{{player|GeT_RiGhT|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|ninjas in pyjamas 2012}}
+|-
+|{{player|Xizt|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|ninjas in pyjamas 2012}}
+|-
+|{{player|friberg|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|ninjas in pyjamas 2012}}
+|-
+|{{player|Fifflaren|flag=se}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|ninjas in pyjamas 2012}}
+|-
+|{{player|shox|flag=fr}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team ldlc.com 2012}}
+|-
+|{{player|SmithZz|flag=fr}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team ldlc.com 2012}}
+|-
+|{{player|kennyS|flag=fr}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team envyus orig}}
+|-
+|{{player|Kjaerbye|flag=dk}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|astralis orig}}
+|-
+|{{player|AdreN|link=AdreN (Kazakh player)|flag=kz}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|gambit esports1}}
+|-
+|{{player|mou|flag=kz}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|gambit esports1}}
+|-
+|{{player|HObbit|flag=kz}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|gambit esports1}}
+|-
+|{{player|Dosia|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|gambit esports1}}
+|-
+|{{player|Zeus|link=Zeus (Ukrainian player)|flag=ua}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|gambit esports1}}
+|-
+|{{player|Skadoodle|flag=us}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|cloud9 orig}}
+|-
+|{{player|Stewie2K|flag=us}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|cloud9 orig}}
+|-
+|{{player|autimatic|flag=us}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|cloud9 orig}}
+|-
+|{{player|RUSH|flag=us}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|cloud9 orig}}
+|-
+|{{player|tarik|flag=us}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|cloud9 orig}}
+|-
+|{{player|s1mple|flag=ua}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|navi}}
+|-
+|{{player|electroNic|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|navi}}
+|-
+|{{player|Boombl4|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|navi}}
+|-
+|{{player|Perfecto|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|navi}}
+|-
+|{{player|rain|flag=no}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|faze clan nov 2021}}
+|-
+|{{player|broky|flag=lv}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|faze clan nov 2021}}
+|-
+|{{player|Twistzz|flag=ca}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|faze clan nov 2021}}
+|-
+|{{player|Qikert|flag=kz}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|-
+|{{player|Jame|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|-
+|{{player|FL1T|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|-
+|{{player|n0rb3r7|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|-
+|{{player|fame|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|}
+{{box|break|padding=2em}}
+{| class="wikitable plainrowheaders sortable" style="width: 317px" <!-- remove width when/if a player with three teams gets three major wins, it's only to match the above tables for now -->
+|-
+!scope=col|Player
+!scope=col style="width: 60px;" |{{Medal|1}}
+!scope=col|Team(s)
+|-
+|{{player|Spinx|flag=il}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team vitality 2023}}
+|-
+|{{player|Aleksib|flag=fi}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|natus vincere}}
+|-
+|{{player|jL|flag=lt}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|natus vincere}}
+|-
+|{{player|iM|flag=ro}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|natus vincere}}
+|-
+|{{player|w0nderful|flag=ua}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|natus vincere}}
+|-
+|{{player|magixx|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|spirit}}
+|-
+|{{player|chopper|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|spirit}}
+|-
+|{{player|zont1x|flag=ua}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|spirit}}
+|-
+|{{player|donk|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|spirit}}
+|-
+|{{player|sh1ro|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|spirit}}
+|-
+|{{player|NiKo|flag=ba}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team falcons 2022}}
+|-
+|{{player|TeSeS|flag=dk}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team falcons 2022}}
+|-
+|{{player|m0NESY|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team falcons 2022}}
+|-
+|{{player|kyousuke|flag=ru}}
+|class="bg-first" align=center|'''1'''
+|style="text-align:center;" |{{TeamIcon|team falcons 2022}}
+|}
+{{box|end}}
+
+===Rookie Winners===
+{{box|start|padding=2em}}
+The following three players managed to win a Major in their debut appearance<sup>1</sup>:
+
+{| class="wikitable plainrowheaders sortable" style="margin auto"
+|-
+!scope=col|Player
+!scope=col|Team
+!scope=col|Major
+|-
+|{{player|fnx|flag=br}}
+|style="text-align:center;" |{{TeamIcon|luminosity gaming}}
+|[[MLG/2016/Columbus|MLG Major Championship: Columbus 2016]]
+|-
+|{{player|b1t|flag=ua}}
+|style="text-align:center;" |{{TeamIcon|navi}}
+|[[PGL/2021/Stockholm|PGL Major Stockholm 2021]]
+|-
+|{{player|fame|flag=ru}}
+|style="text-align:center;" |{{TeamIcon|outsiders}}
+|[[Intel_Extreme_Masters/2022/Rio|Intel Extreme Masters Rio Major 2022]]
+|}
+{{box|end}}
+{{note|1|DreamHack Winter 2013 champions are excluded from the list, as it was the first Major.}}
+
+===Players with multiple final appearances with different core lineups===
+<div class="table-responsive">
+{| class="wikitable plainrowheaders sortable" style="margin: auto"
+|-
+!scope=col|Timeline
+!scope=col|Player
+!scope=col|Core No.
+!scope=col|Event
+!scope=col|Team
+!scope=col|Lineup
+|-
+!rowspan=3|#1
+|rowspan="3"|{{Flag|ua}} [[Zeus (Ukrainian player)|Zeus]]
+|rowspan="2"|#1
+|[[DreamHack/2015/Cluj-Napoca|Cluj-Napoca 2015]], [[MLG/2016/Columbus|Columbus 2016]]
+|{{TeamIcon|navi|2016-04-03}}
+|'''[[Zeus (Ukrainian player)|Zeus]]''', ''[[seized]]'', [[Edward]], ''[[GuardiaN]]'', [[flamie]]
+|-
+|[[FACEIT/2018/Major|London 2018]]
+|{{TeamIcon|navi|2018-09-23}}
+|[[Edward]], [[flamie]], ''[[s1mple]]'', '''[[Zeus (Ukrainian player)|Zeus]]''', ''[[electronic]]''
+|-
+|#2
+|[[PGL/2017/Krakow|Kraków 2017]]
+|{{TeamIcon|gambit|2017-07-23}}
+|[[Dosia]], [[AdreN (Kazakh player)|AdreN]], [[mou]], '''[[Zeus (Ukrainian player)|Zeus]]''', [[HObbit]]
+|-
+!rowspan=2|#2
+|rowspan="2"|{{Flag|se}} [[olofmeister]]
+|#1
+|[[ESL/One/2014/Cologne|Cologne 2014]], [[ESL/One/2015/Katowice|Katowice 2015]], [[ESL/One/2015/Cologne|Cologne 2015]]
+|{{TeamIcon|fnc|2015-08-23}}
+|[[JW]], [[flusha]], [[pronax]], '''[[olofmeister]]''', [[KRIMZ]]
+|-
+|#2
+|[[ELEAGUE/2018/Major|Boston 2018]]
+|{{TeamIcon|faze|2018-01-28}}
+|[[rain]], [[karrigan]], [[NiKo]], [[GuardiaN]], '''[[olofmeister]]'''
+|-
+!rowspan=2|#3
+|rowspan="2"|{{Flag|sk}} [[GuardiaN]]
+|#1
+|[[DreamHack/2015/Cluj-Napoca|Cluj-Napoca 2015]], [[MLG/2016/Columbus|Columbus 2016]]
+|{{TeamIcon|navi|2016-04-03}}
+|[[Zeus (Ukrainian player)|Zeus]], [[seized]], [[Edward]], '''[[GuardiaN]]''', [[flamie]]
+|-
+|#2
+|[[ELEAGUE/2018/Major|Boston 2018]]
+|{{TeamIcon|faze|2018-01-28}}
+|[[rain]], [[karrigan]], [[NiKo]], '''[[GuardiaN]]''', [[olofmeister]]
+|-
+!rowspan=3|#4
+|rowspan="3"|{{Flag|ua}} [[s1mple]]
+|#1
+|[[ESL/One/2016/Cologne|Cologne 2016]]
+|{{TeamIcon|tl|2016-07-10}}
+|[[nitr0]], [[EliGE]], [[Hiko]], '''[[s1mple]]''', [[jdm64]]
+|-
+|#2
+|[[FACEIT/2018/Major|London 2018]]
+|{{TeamIcon|navi|2018-09-23}}
+|[[Edward]], [[flamie]], '''[[s1mple]]''', [[Zeus (Ukrainian player)|Zeus]], [[electronic]]
+|-
+|#3
+|[[PGL/2021/Stockholm|Stockholm 2021]], [[PGL/2022/Antwerp|Antwerp 2022]]
+|{{TeamIcon|navi|2022-05-22}}
+|'''[[s1mple]]''', [[electroNic]], [[Boombl4]], [[Perfecto]], [[b1t]]
+|-
+!rowspan=2|#5
+|rowspan="2"|{{Flag|fi}} [[allu]]
+|#1
+|[[ESL/One/2015/Katowice|Katowice 2015]]
+|{{TeamIcon|nip|2015-03-15}}
+|[[f0rest]], [[GeT_RiGhT]], [[Xizt]], [[friberg]], '''[[allu]]'''
+|-
+|#2
+|[[Intel Extreme Masters/Season XIII/World Championship|Katowice 2019]]
+|{{TeamIcon|ence|2019-03-03}}
+|'''[[allu]]''', [[Aleksib]], [[sergej]], [[Aerial]], [[xseveN]]
+|-
+!rowspan=2|#6
+|rowspan="2"|{{Flag|kz}} [[AdreN (Kazakh player)|AdreN]]
+|#1
+|[[PGL/2017/Krakow|Kraków 2017]]
+|{{TeamIcon|gambit|2017-07-23}}
+|[[Dosia]], '''[[AdreN (Kazakh player)|AdreN]]''', [[mou]], [[Zeus (Ukrainian player)|Zeus]], [[HObbit]]
+|-
+|#2
+|[[StarLadder/2019/Major|Berlin 2019]]
+|{{TeamIcon|avangar|2019-09-08}}
+|[[buster]], [[qikert]], [[Jame]], [[SANJI]], '''[[AdreN (Kazakh player)|AdreN]]'''
+|-
+!rowspan=3|#7
+|rowspan="3"|{{Flag|ba}} [[NiKo]]
+|#1
+|[[ELEAGUE/2018/Major|Boston 2018]]
+|{{TeamIcon|faze|2018-01-28}}
+|[[rain]], [[karrigan]], '''[[NiKo]]''', [[GuardiaN]], [[olofmeister]]
+|-
+|#2
+|[[PGL/2021/Stockholm|Stockholm 2021]]
+|{{TeamIcon|g2|2021-11-07}}
+|[[JACKZ]], [[AMANEK]], [[nexa]], [[huNter-]], '''[[NiKo]]'''
+|-
+|#3
+|[[Intel Extreme Masters/2026/Cologne|Cologne 2026]]
+|{{TeamIcon|falcons|2026-06-21}}
+|'''[[NiKo]]''', [[TeSeS]], [[m0NESY]], [[kyousuke]], [[karrigan]]
+|-
+!rowspan=3|#8
+|rowspan="3"|{{Flag|no}} [[rain]]
+|#1
+|[[ELEAGUE/2018/Major|Boston 2018]]
+|{{TeamIcon|faze|2018-01-28}}
+|'''[[rain]]''', [[karrigan]], [[NiKo]], [[GuardiaN]], [[olofmeister]]
+|-
+|rowspan="2"|#2
+|[[PGL/2022/Antwerp|Antwerp 2022]]
+|{{TeamIcon|faze|2022-05-22}}
+|'''[[rain]]''', [[broky]], ''[[Twistzz]]'', [[karrigan]], [[ropz]]
+|-
+|[[PGL/2024/Copenhagen|Copenhagen 2024]], [[Perfect World/Major/2024/Shanghai|Shanghai 2024]]
+|{{TeamIcon|faze|2024-12-15}}
+|'''[[rain]]''', [[broky]], [[karrigan]], [[ropz]], ''[[frozen]]''
+|-
+!rowspan=5|#9
+|rowspan="5"|{{Flag|dk}} [[karrigan]]
+|#1
+|[[ELEAGUE/2018/Major|Boston 2018]]
+|{{TeamIcon|faze|2018-01-28}}
+|[[rain]], '''[[karrigan]]''', [[NiKo]], [[GuardiaN]], [[olofmeister]]
+|-
+|rowspan="3"|#2
+|[[PGL/2022/Antwerp|Antwerp 2022]]
+|{{TeamIcon|faze|2022-05-22}}
+|''[[rain]]'', [[broky]], ''[[Twistzz]]'', '''[[karrigan]]''', ''[[ropz]]''
+|-
+|[[PGL/2024/Copenhagen|Copenhagen 2024]], [[Perfect World/Major/2024/Shanghai|Shanghai 2024]]
+|{{TeamIcon|faze|2024-12-15}}
+|''[[rain]]'', [[broky]], '''[[karrigan]]''', ''[[ropz]]'', ''[[frozen]]''
+|-
+|[[StarLadder/2025/Major|Budapest 2025]]
+|{{TeamIcon|faze|2025-12-14}}
+|[[broky]], '''[[karrigan]]''', ''[[frozen]]'', ''[[jcobbb]]'', ''[[Twistzz]]''
+|-
+|#3
+|[[Intel Extreme Masters/2026/Cologne|Cologne 2026]]
+|{{TeamIcon|falcons|2026-06-21}}
+|[[NiKo]], [[TeSeS]], [[m0NESY]], [[kyousuke]], '''[[karrigan]]'''
+|-
+!rowspan=2|#10
+|rowspan="2"|{{Flag|kz}} [[qikert]] & {{Flag|ru}} [[Jame]]
+|#1
+|[[StarLadder/2019/Major|Berlin 2019]]
+|{{TeamIcon|avangar|2019-09-08}}
+|[[buster]], '''[[qikert]]''', '''[[Jame]]''', [[SANJI]], [[AdreN (Kazakh player)|AdreN]]
+|-
+|#2
+|[[Intel Extreme Masters/2022/Rio|Rio 2022]]
+|{{TeamIcon|outsiders|2022-11-13}}
+|'''[[qikert]]''', '''[[Jame]]''', [[FL1T]], [[n0rb3r7]], [[fame]]
+|-
+!rowspan=3|#12
+|rowspan="3"|{{Flag|fr}} [[apEX]]
+|#1
+|[[ESL/One/2015/Cologne|Cologne 2015]], [[DreamHack/2015/Cluj-Napoca|Cluj-Napoca 2015]]
+|{{TeamIcon|nv|2015-11-01}}
+|[[Happy]], [[NBK-]], [[kioShiMa]], [[kennyS]], '''[[apEX]]'''
+|-
+|#2
+|[[BLAST/Major/2023/Paris|Paris 2023]]
+|{{TeamIcon|vit|2023-05-21}}
+|'''[[apEX]]''', [[ZywOo]], [[dupreeh]], [[Magisk]], [[Spinx]]
+|-
+|#3
+|[[BLAST/Major/2025/Austin|Austin 2025]], [[StarLadder/2025/Major|Budapest 2025]]
+|{{TeamIcon|vit|2025-12-14}}
+|'''[[apEX]]''', [[ZywOo]], [[flameZ]], [[mezii]], [[ropz]]
+|-
+!rowspan=3|#13
+|rowspan="3"|{{Flag|dk}} [[dupreeh]]
+|rowspan="2"|#1
+|[[ELEAGUE/2017/Major|Atlanta 2017]]
+|{{TeamIcon|astralis|2017-01-29}}
+|[[device]], '''[[dupreeh]]''', [[Xyp9x]], ''[[Kjaerbye]]'', [[gla1ve]]
+|-
+|[[FACEIT/2018/Major|London 2018]], [[Intel Extreme Masters/Season XIII/World Championship|Katowice 2019]], [[StarLadder/2019/Major|Berlin 2019]]
+|{{TeamIcon|astralis|2019-09-08}}
+|[[device]], '''[[dupreeh]]''', [[Xyp9x]], [[gla1ve]], ''[[Magisk]]''
+|-
+|#2
+|[[BLAST/Major/2023/Paris|Paris 2023]]
+|{{TeamIcon|vit|2023-05-21}}
+|[[apEX]], [[ZywOo]], '''[[dupreeh]]''', [[Magisk]], [[Spinx]]
+|-
+!rowspan=2|#14
+|rowspan="2"|{{Flag|dk}} [[Magisk]]
+|#1
+|[[FACEIT/2018/Major|London 2018]], [[Intel Extreme Masters/Season XIII/World Championship|Katowice 2019]], [[StarLadder/2019/Major|Berlin 2019]]
+|{{TeamIcon|astralis|2019-09-08}}
+|[[device]], [[dupreeh]], [[Xyp9x]], [[gla1ve]], '''[[Magisk]]'''
+|-
+|#2
+|[[BLAST/Major/2023/Paris|Paris 2023]]
+|{{TeamIcon|vit|2023-05-21}}
+|[[apEX]], [[ZywOo]], [[dupreeh]], '''[[Magisk]]''', [[Spinx]]
+|-
+!rowspan=2|#15
+|rowspan="2"|{{Flag|fi}} [[Aleksib]]
+|#1
+|[[Intel Extreme Masters/Season XIII/World Championship|Katowice 2019]]
+|{{TeamIcon|ence|2019-03-03}}
+|[[allu]], '''[[Aleksib]]''', [[sergej]], [[Aerial]], [[xseveN]]
+|-
+|#2
+|[[PGL/2024/Copenhagen|Copenhagen 2024]]
+|{{TeamIcon|navi|2024-03-31}}
+|[[b1t]], '''[[Aleksib]]''', [[jL]], [[iM]], [[w0nderful]]
+|-
+!rowspan=2|#16
+|rowspan="2"|{{Flag|ua}} [[b1t]]
+|#1
+|[[PGL/2021/Stockholm|Stockholm 2021]], [[PGL/2022/Antwerp|Antwerp 2022]]
+|{{TeamIcon|navi|2022-05-22}}
+|[[s1mple]], [[electroNic]], [[Boombl4]], [[Perfecto]], '''[[b1t]]'''
+|-
+|#2
+|[[PGL/2024/Copenhagen|Copenhagen 2024]]
+|{{TeamIcon|navi|2024-03-31}}
+|'''[[b1t]]''', [[Aleksib]], [[jL]], [[iM]], [[w0nderful]]
+|-
+!rowspan=2|#17
+|rowspan="2"|{{Flag|ro}} [[iM]]
+|#1
+|[[BLAST/Major/2023/Paris|Paris 2023]]
+|{{TeamIcon|gamerlegion|2023-05-21}}
+|'''[[iM]]''', [[isak]], [[acoR]], [[siuhy]], [[Keoz]]
+|-
+|#2
+|[[PGL/2024/Copenhagen|Copenhagen 2024]]
+|{{TeamIcon|navi|2024-03-31}}
+|[[b1t]], [[Aleksib]], [[jL]], '''[[iM]]''', [[w0nderful]]
+|-
+!rowspan=3|#18
+|rowspan="3"|{{Flag|ee}} [[ropz]]
+|rowspan="2"|#1
+|[[PGL/2022/Antwerp|Antwerp 2022]]
+|{{TeamIcon|faze|2022-05-22}}
+|[[rain]], [[broky]], ''[[Twistzz]]'', [[karrigan]], '''[[ropz]]'''
+|-
+|[[PGL/2024/Copenhagen|Copenhagen 2024]], [[Perfect World/Major/2024/Shanghai|Shanghai 2024]]
+|{{TeamIcon|faze|2024-12-15}}
+|[[rain]], [[broky]], [[karrigan]], '''[[ropz]]''', ''[[frozen]]''
+|-
+|#2
+|[[BLAST/Major/2025/Austin|Austin 2025]], [[StarLadder/2025/Major|Budapest 2025]]
+|{{TeamIcon|vit|2025-12-14}}
+|[[apEX]], [[ZywOo]], [[flameZ]], [[mezii]], '''[[ropz]]'''
+|-
+!rowspan=2|#19
+|rowspan="2"|{{Flag|fr}} [[ZywOo]]
+|#1
+|[[BLAST/Major/2023/Paris|Paris 2023]]
+|{{TeamIcon|vit|2023-05-21}}
+|[[apEX]], '''[[ZywOo]]''', [[dupreeh]], [[Magisk]], [[Spinx]]
+|-
+|#2
+|[[BLAST/Major/2025/Austin|Austin 2025]], [[StarLadder/2025/Major|Budapest 2025]]
+|{{TeamIcon|vit|2025-12-14}}
+|[[apEX]], '''[[ZywOo]]''', [[flameZ]], [[mezii]], [[ropz]]
+|-
+!rowspan=2|#20
+|rowspan="2"|{{Flag|br}} [[FalleN]]
+|#1
+|[[MLG/2016/Columbus|Columbus 2016]], [[ESL/One/2016/Cologne|Cologne 2016]]
+|{{TeamIcon|luminosity|2016-04-03}}<br>{{TeamIcon|sk|2016-07-10}}
+|'''[[FalleN]]''', [[fer]], [[coldzera]], [[fnx]], [[TACO]]
+|-
+|#2
+|[[Intel Extreme Masters/2026/Cologne|Cologne 2026]]
+|{{TeamIcon|furia|2026-06-21}}
+|[[yuurih]], [[KSCERATO]], '''[[FalleN]]''', [[molodoy]], [[YEKINDAR]]
+|-
+!rowspan=2|#21
+|rowspan="2"|{{Flag|dk}} [[TeSeS]]
+|#1
+|[[Intel Extreme Masters/2022/Rio|Rio 2022]]
+|{{TeamIcon|heroic|2022-11-13}}
+|[[stavn]], [[cadiaN]], '''[[TeSeS]]''', [[sjuush]], [[jabbi]]
+|-
+|#2
+|[[Intel Extreme Masters/2026/Cologne|Cologne 2026]]
+|{{TeamIcon|falcons|2026-06-21}}
+|[[NiKo]], '''[[TeSeS]]''', [[m0NESY]], [[kyousuke]], [[karrigan]]
+|-
+|}</div>
+<small>'''Note:''' A core lineup consists of at least three out of the five players in a lineup.</small>
+
+==Player Participation==
+===Players With Most Major Appearances===
+<div class="table-responsive">
+{{TableHeader/MajorsMostPlayers|width=110}}
+<!--Header						|||||||||||||||||||||||-->
+|-
+|style="text-align:left;"|<b>{{player|flag=fr|apEX}}</b>||22||{{TeamIcon|clan-mystik}}||{{TeamIcon|team ldlc.com 2012}}||class="bg-third"|{{TeamIcon|team ldlc.com 2012}}||||{{TeamIcon|titan}}||class="bg-second"|{{TeamIcon|team envyus orig}}||class="bg-first"|{{TeamIcon|team envyus orig}}||{{TeamIcon|team envyus orig}}||{{TeamIcon|team envyus orig}}||{{TeamIcon|team envyus orig}}||{{TeamIcon|g2 esports 2015}}||{{TeamIcon|g2 esports 2018}}||||{{TeamIcon|team vitality 2018}}||{{TeamIcon|team vitality 2018}}||{{TeamIcon|team vitality 2021}}||{{TeamIcon|team vitality 2021}}||{{TeamIcon|team vitality 2021}}||class="bg-first"|{{TeamIcon|team vitality 2023}}||class="bg-third"|{{TeamIcon|team vitality 2023}}||{{TeamIcon|team vitality}}||class="bg-first"|{{TeamIcon|team vitality}}||class="bg-first"|{{TeamIcon|team vitality}}||{{TeamIcon|team vitality}}
+|-
+|style="text-align:left;"|<b>{{player|flag=dk|karrigan}}</b>||22||{{TeamIcon|n!faculty}}||{{TeamIcon|reason}}||{{TeamIcon|cph wolves}}||||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|team solomid orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2017}}||class="bg-second"|{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2018}}||||{{TeamIcon|mousesports 2016}}||{{TeamIcon|faze clan 2021}}||class="bg-first"|{{TeamIcon|faze clan nov 2021}}||{{TeamIcon|faze clan nov 2021}}||{{TeamIcon|faze clan nov 2021}}||class="bg-second"|{{TeamIcon|faze clan nov 2021}}||class="bg-second"|{{TeamIcon|faze clan 2024}}||{{TeamIcon|faze clan 2025}}||class="bg-second"|{{TeamIcon|faze clan oct 2025}}||class="bg-first"|{{TeamIcon|falcons}}
+|-
+|style="text-align:left;"|{{player|flag=dk|dupreeh}}||19||{{TeamIcon|cph wolves}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||{{TeamIcon|team dignitas orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|team solomid orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis}}||{{TeamIcon|team vitality 2021}}||{{TeamIcon|team vitality 2021}}||class="bg-first"|{{TeamIcon|team vitality 2023}}||||||||||
+|-
+|style="text-align:left;"|<b>{{player|flag=no|rain}}</b>||19||||||{{TeamIcon|london conspiracy}}||||{{TeamIcon|lgb}}||{{TeamIcon|kinguin}}||class="bg-third"|{{TeamIcon|g2 esports 2015}}||{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2017}}||class="bg-second"|{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2021}}||class="bg-first"|{{TeamIcon|faze clan nov 2021}}||{{TeamIcon|faze clan nov 2021}}||{{TeamIcon|faze clan nov 2021}}||class="bg-second"|{{TeamIcon|faze clan nov 2021}}||class="bg-second"|{{TeamIcon|faze clan 2024}}||{{TeamIcon|faze clan 2025}}||||
+|-
+|style="text-align:left;"|<b>{{player|flag=br|FalleN}}</b>||19||||||||||{{TeamIcon|keyd stars 2015}}||{{TeamIcon|lg}}||{{TeamIcon|lg}}||class="bg-first"|{{TeamIcon|lg}}||class="bg-first"|{{TeamIcon|sk}}||class="bg-third"|{{TeamIcon|sk}}||{{TeamIcon|sk}}||class="bg-third"|{{TeamIcon|sk}}||class="bg-third"|{{TeamIcon|mibr}}||class="bg-third"|{{TeamIcon|mibr}}||{{TeamIcon|mibr}}||{{TeamIcon|tl}}||{{TeamIcon|imperial esports 2022}}||{{TeamIcon|imperial esports 2022}}||||{{TeamIcon|furia}}||{{TeamIcon|furia}}||{{TeamIcon|furia}}||{{TeamIcon|furia}}||class="bg-second"|{{TeamIcon|furia}}
+|-
+|style="text-align:left;"|<b>{{player|flag=se|KRIMZ}}</b>||18||{{TeamIcon|lgb}}||class="bg-third"|{{TeamIcon|lgb}}||class="bg-second"|{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic orig}}||class="bg-first"|{{TeamIcon|fnatic orig}}||class="bg-first"|{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic 2015}}||class="bg-third"|{{TeamIcon|fnatic 2015}}||class="bg-third"|{{TeamIcon|fnatic 2015}}||{{TeamIcon|fnatic 2015}}||{{TeamIcon|fnatic 2015}}||{{TeamIcon|fnatic 2015}}||{{TeamIcon|fnatic 2015}}||||||||{{TeamIcon|fnatic}}||{{TeamIcon|fnatic}}||||{{TeamIcon|fnatic}}||||{{TeamIcon|fnatic}}||
+|-
+|style="text-align:left;"|{{player|flag=dk|Xyp9x}}||17||{{TeamIcon|cph wolves}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||{{TeamIcon|team dignitas orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|team solomid orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis}}||{{TeamIcon|astralis}}||||||||||||||
+|-
+|style="text-align:left;"|{{player|flag=fr|shox}}||17||class="bg-third"|{{TeamIcon|vg}}||{{TeamIcon|titan}}||{{TeamIcon|epsilon esports 2018}}||class="bg-first"|{{TeamIcon|team ldlc.com 2012}}||class="bg-third"|{{TeamIcon|team envyus orig}}||{{TeamIcon|titan}}||{{TeamIcon|titan}}||{{TeamIcon|g2 esports 2015}}||{{TeamIcon|g2 esports 2015}}||{{TeamIcon|g2 esports 2015}}||{{TeamIcon|g2 esports 2015}}||{{TeamIcon|g2 esports 2018}}||{{TeamIcon|g2 esports 2018}}||{{TeamIcon|g2 esports 2019}}||{{TeamIcon|g2 esports 2019}}||{{TeamIcon|team vitality 2021}}||{{TeamIcon|team liquid 2020}}||||||||||||||
+|-
+|style="text-align:left;"|<b>{{player|flag=dk|dev1ce}}</b>||17||{{TeamIcon|cph wolves}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||class="bg-third"|{{TeamIcon|team dignitas orig}}||{{TeamIcon|team dignitas orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|team solomid orig}}||{{TeamIcon|team solomid orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-third"|{{TeamIcon|astralis orig}}||{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||class="bg-first"|{{TeamIcon|astralis orig}}||{{TeamIcon|nip}}||||||||||||||{{TeamIcon|astralis}}||
+|-
+|style="text-align:left;"|<b>{{player|flag=pl|Snax}}</b>||17||{{TeamIcon|universal soldiers}}||class="bg-first"|{{TeamIcon|virtus.pro 2012 2}}||{{TeamIcon|virtus.pro 2012 2}}||class="bg-third"|{{TeamIcon|virtus.pro 2012 2}}||class="bg-third"|{{TeamIcon|virtus.pro 2012 2}}||class="bg-third"|{{TeamIcon|virtus.pro 2012 2}}||{{TeamIcon|virtus.pro 2012 2}}||{{TeamIcon|virtus.pro 2012 2}}||class="bg-third"|{{TeamIcon|virtus.pro 2012 2}}||class="bg-second"|{{TeamIcon|virtus.pro 2012 2}}||class="bg-third"|{{TeamIcon|virtus.pro 2012 2}}||{{TeamIcon|virtus.pro 2012 2}}||{{TeamIcon|mousesports 2016}}||||||||||||||{{TeamIcon|gamerlegion 2023}}||class="bg-third"|{{TeamIcon|g2 esports 2019}}||{{TeamIcon|g2 esports 2019}}||||{{TeamIcon|gamerlegion}}
+|-
+|style="text-align:left;"|<b>{{player|flag=us|EliGE}}</b>||17||||||||||||||{{TeamIcon|team liquid orig}}||class="bg-third"|{{TeamIcon|team liquid orig}}||class="bg-second"|{{TeamIcon|team liquid orig}}||{{TeamIcon|team liquid 2017}}||||{{TeamIcon|team liquid 2017}}||class="bg-third"|{{TeamIcon|team liquid 2017}}||{{TeamIcon|team liquid 2017}}||{{TeamIcon|team liquid 2017}}||{{TeamIcon|team liquid 2020}}||{{TeamIcon|team liquid 2020}}||{{TeamIcon|team liquid 2020}}||{{TeamIcon|team liquid 2023}}||{{TeamIcon|col}}||{{TeamIcon|col}}||{{TeamIcon|faze clan 2025}}||{{TeamIcon|team liquid}}||{{TeamIcon|team liquid}}
+|-
+|style="text-align:left;"|<b>{{player|flag=ba|NiKo}}</b>||17||||||||||||||{{TeamIcon|mousesports orig}}||{{TeamIcon|mousesports orig}}||{{TeamIcon|mousesports orig}}||{{TeamIcon|mousesports orig}}||{{TeamIcon|faze clan 2017}}||class="bg-second"|{{TeamIcon|faze clan 2017}}||{{TeamIcon|{{TeamIcon|faze clan 2018}}||{{TeamIcon|{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2018}}||class="bg-second"|{{TeamIcon|g2}}||{{TeamIcon|g2}}||||{{TeamIcon|g2}}||class="bg-third"|{{TeamIcon|g2}}||class="bg-third"|{{TeamIcon|g2}}||{{TeamIcon|falcons}}||{{TeamIcon|falcons}}||class="bg-first"|{{TeamIcon|falcons}}
+|-
+|style="text-align:left;"|{{player|flag=se|olofmeister}}||16||{{TeamIcon|lgb}}||class="bg-third"|{{TeamIcon|lgb}}||class="bg-second"|{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic orig}}||class="bg-first"|{{TeamIcon|fnatic orig}}||class="bg-first"|{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic orig}}||{{TeamIcon|fnatic 2015}}||class="bg-third"|{{TeamIcon|fnatic 2015}}||class="bg-third"|{{TeamIcon|fnatic 2015}}||{{TeamIcon|fnatic 2015}}||class="bg-second"|{{TeamIcon|faze clan 2017}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2018}}||{{TeamIcon|faze clan 2021}}||||||||||||||||
+|-
+|style="text-align:left;"|{{player|flag=ua|Zeus|link=Zeus (Ukrainian player)}}||15||{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||class="bg-third"|{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||class="bg-second"|{{TeamIcon|natus vincere orig}}||class="bg-second"|{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||{{TeamIcon|gambit esports1}}||class="bg-first"|{{TeamIcon|gambit esports1}}||class="bg-third"|{{TeamIcon|natus vincere orig}}||class="bg-second"|{{TeamIcon|natus vincere orig}}||class="bg-third"|{{TeamIcon|natus vincere orig}}||{{TeamIcon|natus vincere orig}}||||||||||||||||
+|-
+|}</div></div>
+
+===Participants by Country===
+Players from 52 different nations have participated in the Majors. Six countries (Denmark, Russia, Sweden, USA, France and Ukraine) were represented by at least one player at each Major to date.<br>
+<div class="table-responsive">
+{| class="wikitable sortable" 
+! Country
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|DreamHack icon allmode.png|name=DreamHack Winter 2013|link=DreamHack/2013/Winter}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/ems|name=ESL Major Series One: Katowice 2014|link=ESL/Major_Series_One/2014/Katowice}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/esl one orig|name=ESL One: Cologne 2014|link=ESL/One/2014/Cologne}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|DreamHack icon allmode.png|name=DreamHack Winter 2014|link=DreamHack/2014/Winter}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/esl one orig|name=ESL One: Katowice 2015|link=ESL/One/2015/Katowice}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/esl one orig|name=ESL One: Cologne 2015|link=ESL/One/2015/Cologne}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/dreamhack|name=DreamHack Open Cluj-Napoca 2015|link=DreamHack/2015/Cluj-Napoca}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/mlg|name=MLG Major Championship: Columbus 2016|link=MLG/2016/Columbus}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/esl one 2016|name=ESL One: Cologne 2016|link=ESL/One/2016/Cologne}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/eleague|name=ELEAGUE Major: Atlanta 2017|link=ELEAGUE/2017/Major}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|PGL Krakow Major 2017 allmode.png|name=PGL Major Kraków 2017|link=PGL/2017/Krakow}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/eleague|name=ELEAGUE Major: Boston 2018|link=ELEAGUE/2018/Major}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/faceit major|name=FACEIT Major: London 2018|link=FACEIT/2018/Major}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/intel extreme masters 2019|name=IEM Katowice Major 2019|link=Intel Extreme Masters/Season XIII/World Championship}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/starladder major|name=StarLadder Berlin Major 2019|link=StarLadder/2019/Major}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|PGL Major Stockholm 2021 allmode.png|name=PGL Major Stockholm 2021|link=PGL/2021/Stockholm}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|PGL Major Antwerp 2022 icon lightmode.png|darkmode=PGL Major Antwerp 2022 icon darkmode.png|name=PGL Major Antwerp 2022|link=PGL/2022/Antwerp}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/intel extreme masters 2022|name=IEM Rio Major 2022|link=Intel_Extreme_Masters/2022/Rio}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/blast major|name=BLAST.tv Paris Major 2023|link=BLAST/Major/2023/Paris}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|PGL Major Copenhagen 2024 icon lightmode.png|darkmode=PGL Major Copenhagen 2024 icon allmode.png|name=PGL Major Copenhagen 2024|link=PGL/2024/Copenhagen}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|Perfect World Shanghai Major 2024 icon lightmode.png|darkmode=Perfect World Shanghai Major 2024 icon darkmode.png|name=Perfect World Shanghai Major 2024|link=Perfect_World/Major/2024/Shanghai}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|BLAST.tv Austin Major 2025 icon lightmode.png|darkmode=BLAST.tv Austin Major 2025 icon darkmode.png|name=BLAST.tv Austin Major 2025|link=BLAST/Major/2025/Austin}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/custom|StarLadder Budapest Major 2025 allmode.png|name=StarLadder Budapest Major 2025|link=StarLadder/2025/Major}}
+!style="background-color:var(--publisher-premier-highlight-background-color)"|{{LeagueIconSmall/intel extreme masters 2022|name=IEM Cologne Major 2026|link=Intel_Extreme_Masters/2026/Cologne}}
+!<small><small>'''Total'''</small></small>
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|dk}} [[:Category:Denmark|Denmark]]
+|style="text-align:center"| 17
+|style="text-align:center"| 16
+|style="text-align:center"| 10
+|style="text-align:center"| 15
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 10
+|style="text-align:center"| 6
+|style="text-align:center"| 11
+|style="text-align:center"| 12
+|style="text-align:center"| 11
+|style="text-align:center"| 11
+|style="text-align:center"| 17
+|style="text-align:center"| 5
+|style="text-align:center"| 11
+|style="text-align:center"| 20
+|style="text-align:center"| 20
+|style="text-align:center"| 17
+|style="text-align:center"| 15
+|style="text-align:center"| 12
+|style="text-align:center"| 5
+|style="text-align:center"| 7
+|style="text-align:center"| 12
+|style="text-align:center"| 9
+|style="text-align:center"| '''279'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|br}} [[:Category:Brazil|Brazil]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 10
+|style="text-align:center"| 6
+|style="text-align:center"| 4
+|style="text-align:center"| 10
+|style="text-align:center"| 15
+|style="text-align:center"| 21
+|style="text-align:center"| 15
+|style="text-align:center"| 15
+|style="text-align:center"| 15
+|style="text-align:center"| 20
+|style="text-align:center"| 19
+|style="text-align:center"| 25
+|style="text-align:center"| 28
+|style="text-align:center"| 24
+|style="text-align:center"| '''256'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ru}} [[:Category:Russia|Russia]]
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 6
+|style="text-align:center"| 3
+|style="text-align:center"| 6
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 5
+|style="text-align:center"| 9
+|style="text-align:center"| 15
+|style="text-align:center"| 14
+|style="text-align:center"| 13
+|style="text-align:center"| 15
+|style="text-align:center"| 17
+|style="text-align:center"| 20
+|style="text-align:center"| 15
+|style="text-align:center"| 9
+|style="text-align:center"| 18
+|style="text-align:center"| 15
+|style="text-align:center"| 17
+|style="text-align:center"| 12
+|style="text-align:center"| 16
+|style="text-align:center"| '''251'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|se}} [[:Category:Sweden|Sweden]]
+|style="text-align:center"| 21
+|style="text-align:center"| 15
+|style="text-align:center"| 10
+|style="text-align:center"| 15
+|style="text-align:center"| 9
+|style="text-align:center"| 11
+|style="text-align:center"| 11
+|style="text-align:center"| 11
+|style="text-align:center"| 10
+|style="text-align:center"| 10
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 12
+|style="text-align:center"| 12
+|style="text-align:center"| 6
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 3
+|style="text-align:center"| 6
+|style="text-align:center"| 11
+|style="text-align:center"| 4
+|style="text-align:center"| 7
+|style="text-align:center"| '''207'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|us}} [[:Category:USA|United States]]
+|style="text-align:center"| 8
+|style="text-align:center"| 8
+|style="text-align:center"| 6
+|style="text-align:center"| 7
+|style="text-align:center"| 7
+|style="text-align:center"| 8
+|style="text-align:center"| 13
+|style="text-align:center"| 16
+|style="text-align:center"| 9
+|style="text-align:center"| 6
+|style="text-align:center"| 4
+|style="text-align:center"| 12
+|style="text-align:center"| 13
+|style="text-align:center"| 11
+|style="text-align:center"| 9
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 3
+|style="text-align:center"| 4
+|style="text-align:center"| 12
+|style="text-align:center"| 7
+|style="text-align:center"| 7
+|style="text-align:center"| '''191'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|fr}} [[:Category:France|France]]
+|style="text-align:center"| 12
+|style="text-align:center"| 12
+|style="text-align:center"| 12
+|style="text-align:center"| 5
+|style="text-align:center"| 8
+|style="text-align:center"| 8
+|style="text-align:center"| 8
+|style="text-align:center"| 8
+|style="text-align:center"| 10
+|style="text-align:center"| 10
+|style="text-align:center"| 6
+|style="text-align:center"| 11
+|style="text-align:center"| 4
+|style="text-align:center"| 10
+|style="text-align:center"| 9
+|style="text-align:center"| 7
+|style="text-align:center"| 5
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 8
+|style="text-align:center"| 7
+|style="text-align:center"| 7
+|style="text-align:center"| 3
+|style="text-align:center"| '''176'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ua}} [[:Category:Ukraine|Ukraine]]
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 7
+|style="text-align:center"| 6
+|style="text-align:center"| 7
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 7
+|style="text-align:center"| 5
+|style="text-align:center"| 7
+|style="text-align:center"| 6
+|style="text-align:center"| 6
+|style="text-align:center"| 9
+|style="text-align:center"| 8
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 4
+|style="text-align:center"| 7
+|style="text-align:center"| 3
+|style="text-align:center"| 8
+|style="text-align:center"| 9
+|style="text-align:center"| 12
+|style="text-align:center"| 10
+|style="text-align:center"| '''149'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|pl}} [[:Category:Poland|Poland]]
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 10
+|style="text-align:center"| 5
+|style="text-align:center"| 10
+|style="text-align:center"| 10
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 6
+|style="text-align:center"| 6
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 3
+|style="text-align:center"| 10
+|style="text-align:center"| 6
+|style="text-align:center"| 3
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| '''126'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|au}} [[:Category:Australia|Australia]]
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 10
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 3
+|style="text-align:center"| 4
+|style="text-align:center"| 7
+|style="text-align:center"| 7
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| -
+|style="text-align:center"| 6
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 8
+|style="text-align:center"| '''86'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|de}} [[:Category:Germany|Germany]]
+|style="text-align:center"| -
+|style="text-align:center"| 3
+|style="text-align:center"| -
+|style="text-align:center"| 10
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 7
+|style="text-align:center"| 8
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| -
+|style="text-align:center"| 4
+|style="text-align:center"| 5
+|style="text-align:center"| 7
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 4
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 5
+|style="text-align:center"| '''85'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|cn}} [[:Category:China|China]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 6
+|style="text-align:center"| 3
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 10
+|style="text-align:center"| 14
+|style="text-align:center"| 10
+|style="text-align:center"| '''69'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ca}} [[:Category:Canada|Canada]]
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| -
+|style="text-align:center"| 3
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| 1
+|style="text-align:center"| '''64'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|kz}} [[:Category:Kazakhstan|Kazakhstan]]
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| 8
+|style="text-align:center"| 3
+|style="text-align:center"| 6
+|style="text-align:center"| 5
+|style="text-align:center"| 4
+|style="text-align:center"| 3
+|style="text-align:center"| 3
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| '''55'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|mn}} [[:Category:Mongolia|Mongolia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 10
+|style="text-align:center"| 10
+|style="text-align:center"| 5
+|style="text-align:center"| '''52'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|no}} [[:Category:Norway|Norway]]
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 4
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| '''44'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|fi}} [[:Category:Finland|Finland]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 6
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 4
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| '''43'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|tr}} [[:Category:Turkey|Turkey]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| 6
+|style="text-align:center"| 5
+|style="text-align:center"| 6
+|style="text-align:center"| '''41'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|il}} [[:Category:Israel|Israel]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| 5
+|style="text-align:center"| '''33'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|sk}} [[:Category:Slovakia|Slovakia]]
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| '''30'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ba}} [[:Category:Bosnia_and_Herzegovina|Bosnia and Herzegovina]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| '''26'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|be}} [[:Category:Belgium|Belgium]]
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''21'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|uk}} [[:Category:United_Kingdom|United Kingdom]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 4
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| '''18'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|es}} [[:Category:Spain|Spain]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''17'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|xk}} [[:Category:Kosovo|Kosovo]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| 4
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| '''15'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|lv}} [[:Category:Latvia|Latvia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| '''15'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ro}} [[:Category:Romania|Romania]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 3
+|style="text-align:center"| '''15'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|za}} [[:Category:South_Africa|South Africa]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| '''15'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ee}} [[:Category:Estonia|Estonia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''14'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|pt}} [[:Category:Portugal|Portugal]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 7
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''14'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|lt}} [[:Category:Lithuania|Lithuania]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 3
+|style="text-align:center"| '''13'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|nl}} [[:Category:Netherlands|Netherlands]]
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''13'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ar}} [[:Category:Argentina|Argentina]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 4
+|style="text-align:center"| '''11'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|nz}} [[:Category:New_Zealand|New Zealand]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''11'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|hu}} [[:Category:Hungary|Hungary]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| '''11'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|cz}} [[:Category:Czech_Republic|Czech Republic]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 3
+|style="text-align:center"| '''10'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|ch}} [[:Category:Switzerland|Switzerland]]
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''9'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|uy}} [[:Category:Uruguay|Uruguay]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| '''8'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|mk}} [[:Category:North Macedonia|North Macedonia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''7'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|by}} [[:Category:Belarus|Belarus]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| 2
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|bg}} [[:Category:Bulgaria|Bulgaria]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|cl}} [[:Category:Chile|Chile]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|in}} [[:Category:India|India]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 5
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|id}} [[:Category:Indonesia|Indonesia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|rs}} [[:Category:Serbia|Serbia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 2
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''5'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|gt}} [[:Category:Guatemala|Guatemala]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| '''4'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|jo}} [[:Category:Jordan|Jordan]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''4'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|my}} [[:Category:Malaysia|Malaysia]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''3'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|me}} [[:Category:Montenegro|Montenegro]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''3'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|hk}} [[:Category:Hong Kong|Hong Kong]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''2'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|uz}} [[:Category:Uzbekistan|Uzbekistan]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''1'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|az}} [[:Category:Azerbaijan|Azerbaijan]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| '''1'''
+|-
+|style="background:var(--clr-surface-2);"| {{Flag|tw}} [[:Category:Taiwan|Taiwan]]
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| -
+|style="text-align:center"| 1
+|style="text-align:center"| -
+|style="text-align:center"| '''1'''
+|-
+|}</div>
+
+==References==
+{{Reflist}}

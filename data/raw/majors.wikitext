@@ -1,0 +1,120 @@
+{{DISPLAYTITLE:Valve Major Championships}}
+{{Majors Navbox}}<br>
+{{Tabs static
+|name1=Overview|link1=Majors
+|name2=Team Statistics|link2=Majors/Team Statistics
+|name3=Player Statistics|link3=Majors/Player Statistics
+|name4=Player Database|link4=Majors/Player Database
+<!--|name5=Coach Statistics|link5=Majors/Coach Statistics-->
+}}
+
+
+'''Valve Major Championships''', commonly known as '''Majors''', are tournaments sponsored by [[Valve]] with a prize pool of $1,250,000 (previously $250,000 and $1,000,000). They were first introduced in 2013 at [[DreamHack Winter 2013|DreamHack Winter]].
+
+Earlier versions of ''Counter-Strike'' also had events considered [[Counter-Strike_Majors|Majors]], but they were not supported by Valve.
+
+==Tournament Format==
+===2013 - 2016===
+* The tournament proper starts with a 16-team GSL group stage divided into four group of four. Group winners and runners-up advance to the '''Playoffs'''.
+* The '''Playoffs''' is a {{Abbr/Bo3}} Single-Elimination bracket.
+
+===2017===
+* The '''Group Stage''' now follows a 16-team Swiss System format. Top 8 teams from the group advance to the '''Playoffs'''.
+* The '''Playoffs''' is a {{Abbr/Bo3}} Single-Elimination bracket.
+
+===2018 - 2024===
+Starting from [[ELEAGUE/2018/Major|ELEAGUE Boston 2018]], [[Valve]] announced a new overall tournament format, which brought in the Offline Qualifier as a part of the Major Championship. This change increased the number of teams at the Major Championships from 16 to 24.
+* The first two stages of the event follow a 16-team Swiss System format. Top 8 teams from each swiss group advance to the next stage.
+* The deciding stage is a {{Abbr/Bo3}} Single-Elimination bracket.
+
+With the format change, each stage of the tournament is also renamed:
+* '''Offline Qualifier''' => '''The (New) Challengers Stage''' ''(from [[ELEAGUE/2018/Major|Boston 2018]])'' => '''Opening Stage''' ''(from [[PGL/2024/Copenhagen|Copenhagen 2024]])''
+* '''Group Stage''' => '''The (New) Legends Stage''' ''(from [[ELEAGUE/2018/Major|Boston 2018]])'' => '''Elimination Stage''' ''(from [[PGL/2024/Copenhagen|Copenhagen 2024]])''
+* '''Playoffs''' => '''The (New) Champions Stage''' ''(from [[ELEAGUE/2018/Major|Boston 2018]])'' => '''Playoff Stage''' ''(from [[PGL/2024/Copenhagen|Copenhagen 2024]])''
+
+===2025 - Present===
+Starting from [[BLAST/Major/2025/Austin|BLAST.tv Austin 2025]], [[Valve]] announced an additional opening stage for the tournament. This change increased the number of teams at the Major Championships from 24 to 32.
+* The first three stages of the event follow a 16-team Swiss System format. Top 8 teams from each swiss group advance to the next stage.
+* The deciding stage is a {{Abbr/Bo3}} Single-Elimination bracket.
+
+With the format change, each stage of the tournament is also renamed:
+* '''Stage 1''' ''(new initial stage)''
+* '''Opening Stage''' => '''Stage 2''' ''(from [[BLAST/Major/2025/Austin|Austin 2025]])''
+* '''Elimination Stage''' => '''Stage 3''' ''(from [[BLAST/Major/2025/Austin|Austin 2025]])''
+* '''Playoff Stage''' => '''Playoffs''' ''(from [[BLAST/Major/2025/Austin|Austin 2025]])''
+
+==Qualification System==
+===Legend System and Regional Qualifiers===
+Early Majors follow the Legend invite system:
+* The top eight teams from every Major gained "'''Legend'''" status and were automatically qualified to the next Major.
+* Remaining eight teams were determined through a variety of regional qualifiers across the world.
+
+===Offline Qualifier and Minor Championships===
+:''For more info on [[Minors]].''
+
+For [[DreamHack/2015/Cluj-Napoca|DreamHack Open Cluj⁠-⁠Napoca 2015]], [[Valve]] announced that [[DreamHack/2015/Stockholm|DreamHack Open Stockholm 2015]] would be restructured to act as an '''Offline Qualifier''' for the Major, with the bottom eight teams from the previous Major at [[ESL/One/2015/Cologne|Cologne]] being invited and 8 more qualifying from various regional qualifiers. Subsequent Majors adopted this and the '''Offline Qualifier''' became an official part of the Major qualifying system.
+
+In December 2015, [[Valve]] announced another addition in a series of events called '''Regional Minor Championships''' which acted as the dedicated qualifying route for teams who were yet to have a Major spot. Divided into 4 regions (Europe, CIS, Americas, Asia), Minors saw few changes in their formats and usually offered 2 spots at the '''Offline Qualifier''' for each region, effectively replacing the previously unstable structure of regional qualifiers.
+
+The eight-team "'''Legend'''" system remained intact throughout this period.
+
+===Expanded Format===
+With the expansion from 16 to 24 teams from [[ELEAGUE/2018/Major|ELEAGUE Boston 2018]] onwards, there were also changes to qualification spots:
+* Top 16 teams ''(reduced to 14 after [[FACEIT/2018/Major|FACEIT London 2018]])'' from each Major were directly invited to the next one.
+** Top 8 teams received "'''Legend'''" status
+** Remaining teams received "'''Challenger'''" status
+* Other qualifying teams were decided via [[Minors|Minor events]], they would also receive "'''Contender'''" status.
+
+===Regional Major Rankings===
+:''For more info on [[Regional Major Rankings]].''
+
+Following the COVID-19 outbreak in early 2020, [[Valve]] announced a new system called '''Regional Major Rankings''' to replace the previous Major-qualification route. It started off as a point-based ranking with teams competing in their respective regions (a total of 6: Europe, CIS, North America, South America, Asia, Oceania) through a series of events, with each of the top regional teams earning spots at the Major and as a Legend/Challenger/Contender depending on their final placement. 
+
+From 2022, Valve replaced the points-based system for the RMR with singular events for each of the 3 regions (Europe, Americas, Asia-Pacific) to decide the Major spots. Teams' status for the Major (Legend/Challenger/Contender) remained reliant on their placements from the RMR events.
+
+===Major Regional Qualifiers===
+Following the expansion to a 32-team format at [[BLAST/Major/2025/Austin|BLAST.tv Austin 2025]], [[Valve]] announced the '''Major Regional Qualifiers''' to replace the [[Regional Major Rankings]] as the sole qualifying method for the Majors. Similar to the old RMRs, MRQs are singular events hosted for each of the 3 main regions (Europe, Americas, Asia-Pacific) with optional choice to split them into sub-regional qualifiers in case of vast ping difference. The MRQs relies on Valve's Regional Standings for invites alongside supplemental open qualifiers if needed. 
+
+All 16 teams qualified from the MRQs would start from Stage 1 of the Major.
+
+===Valve's Regional Standings===
+:''For more info on [https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main Valve's Regional Standings].''
+
+In 2023, [[Valve]] announced their own version of a team ranking which effectively acts as the seeding method (and later on direct invites) for teams at both the RMRs and Major from [[PGL/2024/Copenhagen|PGL Copenhagen 2024]] onwards.
+
+The Legend/Challenger/Contender team status was not directly used with this change, however, the top 8 teams from the RMRs in accordance to the previous Major result and Valve's Regional Standings still received a bye to the second stage of the Major while the remaining teams would start from the first stage.
+
+Following the expansion to a 32-team Major from [[BLAST/Major/2025/Austin|BLAST.tv Austin 2025]] onwards, the top 16 teams in accordance to the previous Major result and Valve's Regional Standings are directly invited to the next Major with the top 8 teams starting from Stage 3 while the next 8 would begin from Stage 2.
+
+Following the 9th of June 2025 update to the [https://github.com/ValveSoftware/counter-strike_rules_and_regs/commit/2c85d431cb4788ca7cc57854759bf4fe01c8cae3 Major Supplemental Rulebook] where MRQ's were removed, all slots at the major are now filled directly by VRS invites according to the regional assignment as determined at the previous major.
+
+==Majors' Map Pool==
+:''For more info about map pool changes throughout Major history, [https://liquipedia.net/counterstrike/Portal:Maps#Major_Map_Pool click here].''
+
+The map pool used at Majors adapts Valve's in-game Active Duty Map Pool. Currently, it consists of:
+* [[Ancient]]
+* [[Anubis]]
+* [[Cache]]
+* [[Dust II]]
+* [[Inferno]]
+* [[Mirage]]
+* [[Nuke]]<!--
+
+==In-Game Items==
+The first Major at [[DreamHack Winter 2013]] introduced map collection-based souvenir packages and souvenir weapons with a souvenir quality yellow theme in the inventory. The packages act as containers that can be opened without a key and can be obtained by watching the tournament via GOTV or via Twitch with a linked Steam account. The souvenir packages at this Major came with six uniquely designed stickers with normal and foil variations. Weapons dropped from these packages came with just one sticker applied.
+
+[[ESL/Major_Series_One/2014/Katowice|EMS One Katowice 2014]] famously introduced buyable team stickers in normal, foil and holo versions, which can be opened from sticker capsules. Weapons dropped from Katowice packages came with three stickers applied – two foil team logos from the spectated match and a golden wolf or skull design. The latter were replaced by the tournament's organizer logo from [[ESL One: Cologne 2014]] onwards, while the former were changed to the gold version from [[DreamHack Winter 2014]] onwards. [[ESL One: Cologne 2015]] introduced player autograph stickers in normal and foil versions, which on souvenir weapons were selected based on the round MVP. [[MLG/2016/Columbus#All-Stars_Showmatch|MLG Columbus 2016's All-Stars Showmatch]] souvenirs came with special blue and orange holo stickers. [[PGL/2017/Krakow|PGL Kraków 2017]] added gold player autographs.
+
+[[IEM Katowice 2019]] introduced the paid Viewer Pass, which overhauled and integrated the Pick'Em Challenge and became the only way to get souvenir package drops by completing event-related missions, alongside an upgradable event coin and team graffitis. [[StarLadder/2019/Major|StarLadder Berlin 2019]] allowed users to directly buy souvenir packages. [[PGL/2021/Stockholm|PGL Stockholm 2021]] added team patches, notoriously limited player autographs to playoffs and exchanged player autographs for map stickers in souvenir packages.
+
+-->
+
+==List of Valve Major Championships==
+{{TournamentsList|additionalConditions=AND [[publishertier::Major Championship]] AND [[status::!unconfirmed]]}}
+<br/>&emsp;<span class="mw-customtoggle-UnconfirmedMajors">''For a list of future unconfirmed Major Championships, '''click here'''.''</span>
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-UnconfirmedMajors" style="width:100%">
+{{TournamentsList|additionalConditions=AND [[publishertier::Major Championship]] AND [[status::unconfirmed]]}}
+</div>
+
+==References==
+{{Reflist}}
