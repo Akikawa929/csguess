@@ -11,7 +11,7 @@
 // The field list is data driven: age and role are only advertised when we
 // actually have them for most players.
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises';
-import { regionOfCountry, regionOfTeam, zhName } from './lib/geo.mjs';
+import { regionOfCountry, regionOfTeam, zhName, isoOf } from './lib/geo.mjs';
 import { extractTemplates, parseParams } from './lib/parse.mjs';
 
 const SNAPSHOT = '2026-10-22';
@@ -39,26 +39,38 @@ function primaryRole(params) {
   return null;
 }
 
-/** Every player block in the Major database: flag, appearances, first/last year. */
+/**
+ * Every player block in the Major database: flag, appearances, first/last year.
+ * Rows look like `{{player|flag=br|piria|link=piriajr}}`: the shown nickname and
+ * the wiki page title can differ, so both are registered as lookup keys.
+ */
 function parsePlayerDb(text) {
   const out = new Map();
-  const head = /![\s\S]{0,80}?\{\{player\|(?:flag=([a-z]{2})\|)?([^}|]+)\}\}/g;
+  const head = /![\s\S]{0,120}?\{\{player\|(?:flag=([a-z]{2})\|)?([^}|]+?)(?:\|link=([^}|]+?))?\}\}/g;
   const heads = [];
   let m;
   while ((m = head.exec(text))) {
-    heads.push({ flag: (m[1] ?? '').toLowerCase(), nick: m[2].trim(), start: m.index, end: head.lastIndex });
+    heads.push({
+      flag: (m[1] ?? '').toLowerCase(),
+      nick: m[2].trim(),
+      link: (m[3] ?? '').trim(),
+      start: m.index,
+      end: head.lastIndex,
+    });
   }
   for (let i = 0; i < heads.length; i++) {
     const h = heads[i];
     const body = text.slice(h.end, heads[i + 1]?.start ?? text.length);
     const years = [...body.matchAll(/\{\{TeamPart\|[^}]*?\|(\d{4})-\d{2}-\d{2}/g)].map((x) => Number(x[1]));
     if (!years.length) continue;
-    out.set(h.nick.toLowerCase(), {
+    const record = {
       flag: h.flag,
       played: years.length,
       first: Math.min(...years),
       last: Math.max(...years),
-    });
+    };
+    out.set(h.nick.toLowerCase(), record);
+    if (h.link) out.set(h.link.toLowerCase(), record);
   }
   return out;
 }
@@ -137,7 +149,11 @@ async function parseInfoboxes() {
       if (sm < mo || (sm === mo && sd < d)) age -= 1;
       if (age < 15 || age > 60) age = null;
     }
-    out.set(title.toLowerCase(), { age, role: primaryRole(p) });
+    out.set(title.toLowerCase(), {
+      age,
+      role: primaryRole(p),
+      country: isoOf(clean(p.country ?? '')),
+    });
   }
   return out;
 }
@@ -182,7 +198,7 @@ for (const roster of rosters.rosters) {
     // Live API dump wins over the Wayback snapshot: it cannot be stale.
     const ib = infoboxes.get(key) ?? archived.get(key);
     const db = majorDb.get(key);
-    const country = (db?.flag || tp?.flag || entry.flag || '').toLowerCase();
+    const country = (db?.flag || tp?.flag || entry.flag || ib?.country || '').toLowerCase();
     if (!country) {
       problems.push(`no country (skipped): ${id}`);
       continue;

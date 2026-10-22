@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:25:25.734Z",
+  "generatedAt": "2026-10-22T08:30:30.371Z",
   "source": "Liquipedia (live player infoboxes, Major participants, Major database, Major titles, team pages)",
   "snapshot": "2026-06-02/2026-06-21",
   "fields": [
@@ -311,6 +311,19 @@
       "role": "AWP"
     },
     {
+      "id": "cobrazera",
+      "team": "The MongolZ",
+      "teamRegion": "APAC",
+      "country": "mn",
+      "countryName": "蒙古",
+      "region": "APAC",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 21,
+      "role": "Rifle"
+    },
+    {
       "id": "d1Ledez",
       "team": "BetBoom Team",
       "teamRegion": "CIS",
@@ -487,7 +500,7 @@
       "countryName": "巴西",
       "region": "SA",
       "majors": 2,
-      "majorsPlayed": 18,
+      "majorsPlayed": 14,
       "firstMajor": 2015,
       "age": 34,
       "role": "Entry"
@@ -1176,7 +1189,7 @@
       "countryName": "中国",
       "region": "APAC",
       "majors": 0,
-      "majorsPlayed": 4,
+      "majorsPlayed": 3,
       "firstMajor": 2025,
       "age": 21,
       "role": "IGL"
@@ -1349,6 +1362,19 @@
       "firstMajor": 2024,
       "age": 24,
       "role": "AWP"
+    },
+    {
+      "id": "piriajr",
+      "team": "paiN Gaming",
+      "teamRegion": "SA",
+      "country": "br",
+      "countryName": "巴西",
+      "region": "SA",
+      "majors": 0,
+      "majorsPlayed": 2,
+      "firstMajor": 2025,
+      "age": 24,
+      "role": "Entry"
     },
     {
       "id": "PR",
@@ -1618,8 +1644,8 @@
       "countryName": "北马其顿",
       "region": "EU",
       "majors": 0,
-      "majorsPlayed": 6,
-      "firstMajor": 2015,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
       "age": 23,
       "role": "Rifle"
     },
@@ -1978,12 +2004,12 @@
       "id": "Zero",
       "team": "TYLOO",
       "teamRegion": "APAC",
-      "country": "sk",
-      "countryName": "斯洛伐克",
-      "region": "EU",
+      "country": "cn",
+      "countryName": "中国",
+      "region": "APAC",
       "majors": 0,
       "majorsPlayed": 1,
-      "firstMajor": 2017,
+      "firstMajor": 2026,
       "age": 28,
       "role": "Rifle"
     },

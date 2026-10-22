@@ -35,9 +35,11 @@ node scripts/build-web.mjs      # 输出 dist/，不需要 npm install
 
 ## 选手池
 
-池子是 **2026 IEM Cologne Major 的 32 支参赛队主力**，去重后 157 人。答案行必须字段齐全，
-所以当前收录 infobox 能解析出「年龄 + 位置」的 **156 人**：`ryu` 解析到的是同名退役教练词条、
-`cobrazera` 不在 Major 数据库里、`piriajr` / `Sonic` 缺国籍，都被自动剔除。
+池子是 **2026 IEM Cologne Major 的 32 支参赛队主力**，去重后 160 人。答案行必须字段齐全，
+所以当前收录 **158 人**：`ryu` 的词条重定向到了同名退役教练、`Sonic` 的主页面是消歧义页，
+这两人取不到年龄/位置，被自动剔除。
+`cobrazera` / `piriajr` 在 Major 数据库里写作 `cobra` / `piria` 并带 `link=` 别名，
+`parsePlayerDb` 会把别名一起登记，所以能正常入池。
 `scripts/build-players.mjs` 会自动把「年龄或位置未知」的选手剔出池子。
 战队字段以 Major 参赛时的队伍为准；Major 结束后重新生成一次池子即可。
 
