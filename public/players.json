@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:30:30.371Z",
+  "generatedAt": "2026-10-23T14:13:48.960Z",
   "source": "Liquipedia (live player infoboxes, Major participants, Major database, Major titles, team pages)",
   "snapshot": "2026-06-02/2026-06-21",
   "fields": [
@@ -1442,6 +1442,19 @@
       "role": "Rifle"
     },
     {
+      "id": "ryu",
+      "team": "Astralis",
+      "teamRegion": "EU",
+      "country": "lt",
+      "countryName": "立陶宛",
+      "region": "EU",
+      "majors": 0,
+      "majorsPlayed": 1,
+      "firstMajor": 2026,
+      "age": 22,
+      "role": "Rifle"
+    },
+    {
       "id": "s1n",
       "team": "M80",
       "teamRegion": "NA",
@@ -1570,6 +1583,19 @@
       "firstMajor": 2024,
       "age": 19,
       "role": "Support"
+    },
+    {
+      "id": "Sonic",
+      "team": "NRG",
+      "teamRegion": "NA",
+      "country": "za",
+      "countryName": "南非",
+      "region": "OTHER",
+      "majors": 0,
+      "majorsPlayed": 4,
+      "firstMajor": 2024,
+      "age": 27,
+      "role": "AWP"
     },
     {
       "id": "soulfly",

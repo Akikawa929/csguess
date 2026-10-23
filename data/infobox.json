@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T08:05:19.567Z",
+ "generatedAt": "2026-10-23T14:13:23.451Z",
  "source": "web.archive.org snapshots of liquipedia.net/counterstrike/<id>",
  "snapshot": "2026-10-22",
  "players": {
@@ -461,6 +461,18 @@
    "team": "PARIVISION",
    "status": "Active"
   },
+  "JBa": {
+   "birth": "2004-06-10",
+   "birthExact": true,
+   "age": 22,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "United States",
+   "team": "Wildcard",
+   "status": "Active"
+  },
   "JDC": {
    "birth": "2000-04-07",
    "birthExact": true,
@@ -532,6 +544,18 @@
    "role": "Entry",
    "nationality": "Russia",
    "team": "Team Falcons",
+   "status": "Active"
+  },
+  "Lake": {
+   "birth": "2004-10-19",
+   "birthExact": true,
+   "age": 22,
+   "roles": [
+    "Rifler"
+   ],
+   "role": "Rifle",
+   "nationality": "United States",
+   "team": "M80",
    "status": "Active"
   },
   "lauNX": {
@@ -840,16 +864,29 @@
    "status": "Active"
   },
   "ryu": {
-   "birth": "1985-08-14",
+   "birth": "2004-07-25",
    "birthExact": true,
-   "age": 41,
+   "age": 22,
    "roles": [
-    "Coach"
+    "Rifler"
    ],
-   "role": null,
-   "nationality": "United States",
-   "team": "",
-   "status": "Retired"
+   "role": "Rifle",
+   "nationality": "Lithuania",
+   "team": "Astralis",
+   "status": "Active"
+  },
+  "s1n": {
+   "birth": "2002-03-18",
+   "birthExact": true,
+   "age": 24,
+   "roles": [
+    "In-game leader",
+    "Rifler"
+   ],
+   "role": "IGL",
+   "nationality": "Germany",
+   "team": "M80",
+   "status": "Active"
   },
   "s1zzi": {
    "birth": "2009-12-20",
@@ -899,6 +936,18 @@
    "team": "Team Spirit",
    "status": "Active"
   },
+  "slaxz-": {
+   "birth": "1998-11-25",
+   "birthExact": true,
+   "age": 27,
+   "roles": [
+    "AWPer"
+   ],
+   "role": "AWP",
+   "nationality": "Germany",
+   "team": "M80",
+   "status": "Active"
+  },
   "Snax": {
    "birth": "1993-07-05",
    "birthExact": true,
@@ -922,6 +971,19 @@
    "role": "Support",
    "nationality": "Brazil",
    "team": "paiN Gaming",
+   "status": "Active"
+  },
+  "sonic": {
+   "birth": "1998-12-02",
+   "birthExact": true,
+   "age": 27,
+   "roles": [
+    "Rifler (lurker)",
+    "AWPer"
+   ],
+   "role": "AWP",
+   "nationality": "South Africa",
+   "team": "Wildcard",
    "status": "Active"
   },
   "soulfly": {
@@ -982,6 +1044,18 @@
    "role": "Rifle",
    "nationality": "Sweden",
    "team": "HEROIC",
+   "status": "Active"
+  },
+  "Swisher": {
+   "birth": "1998-09-17",
+   "birthExact": true,
+   "age": 28,
+   "roles": [
+    "Entry"
+   ],
+   "role": "Entry",
+   "nationality": "United States",
+   "team": "M80",
    "status": "Active"
   },
   "tabseN": {
